@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **SpringBoot**
+- 🔭 I’m currently working on **🔭 I’m currently working on: - Building a **Java-based RESTful API** using Spring Boot and integrating it with a **PostgreSQL database** for an inventory management system. - Developing a **JavaFX desktop application** to automate daily tasks and improve productivity. - Contributing to **open-source Java libraries** to enhance the developer experience and streamline project setups.**
 
-- 🌱 I’m currently learning **## 🌱 I’m currently learning - Spring Framework -Microservices Architecture - Docker & Kubernetes - Cloud Technologies (AWS, GCP)**
+- 🌱 I’m currently learning **- **Java 17+ features**: Exploring the new features in the latest versions of Java, like records, pattern matching, and sealed classes. - **Spring Cloud** for building cloud-native applications and managing microservices architectures. - **Kotlin**: Diving into Kotlin to better understand interoperability between Java and Kotlin and building Android apps. - **Docker**: Learning how to containerize Java applications for easier deployment and scaling.**
+
+- 👯 I’m looking to collaborate on **- Open-source Java projects that focus on creating scalable back-end solutions or contributing to Spring Boot improvements. -Java-based AI/ML libraries to apply machine learning concepts in traditional Java environments. - Distributed systems projects using Java and Apache Kafka to handle high-volume data streams**
 
 - 🤝 I’m looking for help with **## 🤝 I’m looking for help with - Spring Boot best practices -Building efficient microservices - Optimizing cloud deployment - Deep diving into machine learning models**
 
@@ -17,14 +19,17 @@
 
 - 📝 I regularly write articles on [## 📝 I write on topics related to tech, coding, and development](## 📝 I write on topics related to tech, coding, and development)
 
+- 💬 Ask me about **💬 Ask me about: - **Java best practices**: Writing clean, efficient, and maintainable code with Java. - **Spring Boot**: Building microservices, REST APIs, and integrating Spring Security. - **Concurrency in Java**: How to handle multi-threading, parallel processing, and performance optimization. - **Design patterns in Java**: How to apply **Singleton**, **Factory**, and other patterns effectively in your projects.**
+
 - 📫 How to reach me **imrajeevnayan@gmail.com**
 
-- ⚡ Fun fact **I think I am funny! 😄**
+- ⚡ Fun fact **I once spent an entire weekend refactoring my personal project just to reduce the number of lines of code by 100. - I’ve written a **Java app** that generates **random motivational quotes**… and yes, it’s in an infinite loop, just like the rest of my code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imrajeevnayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imrajeevnayan" height="30" width="40" /></a>
 <a href="https://instagram.com/imrrajeevnayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imrrajeevnayan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/imrajeevnayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imrajeevnayan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imrajeevnayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imrajeevnayan" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/imrajeevnayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="imrajeevnayan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/imrajeevnayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="imrajeevnayan" height="30" width="40" /></a>
