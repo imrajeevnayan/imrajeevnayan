@@ -1,45 +1,109 @@
-<h1 align="center">Hi 👋, I'm RAJEEV NAYAN</h1>
-<h3 align="center">A passionate Java FullStack developer from India, crafting innovative solutions and scalable applications.</h3>
+<h1 align="center">Hi 👋, I'm Rajeev Nayan</h1>
+<h3 align="center">A passionate Java Full Stack Developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imrajeevnayan&label=Profile%20views&color=0e75b6&style=flat" alt="imrajeevnayan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imrajeevnayan" alt="imrajeevnayan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **🔭 I’m currently working on: - Building a **Java-based RESTful API** using Spring Boot and integrating it with a **PostgreSQL database** for an inventory management system. - Developing a **JavaFX desktop application** to automate daily tasks and improve productivity. - Contributing to **open-source Java libraries** to enhance the developer experience and streamline project setups.**
-
-- 🌱 I’m currently learning **- **Java 17+ features**: Exploring the new features in the latest versions of Java, like records, pattern matching, and sealed classes. - **Spring Cloud** for building cloud-native applications and managing microservices architectures. - **Kotlin**: Diving into Kotlin to better understand interoperability between Java and Kotlin and building Android apps. - **Docker**: Learning how to containerize Java applications for easier deployment and scaling.**
-
-- 👯 I’m looking to collaborate on **- Open-source Java projects that focus on creating scalable back-end solutions or contributing to Spring Boot improvements. -Java-based AI/ML libraries to apply machine learning concepts in traditional Java environments. - Distributed systems projects using Java and Apache Kafka to handle high-volume data streams**
-
-- 🤝 I’m looking for help with **## 🤝 I’m looking for help with - Spring Boot best practices -Building efficient microservices - Optimizing cloud deployment - Deep diving into machine learning models**
-
-- 👨‍💻 All of my projects are available at [https://rajeevnayan01.netlify.app/](https://rajeevnayan01.netlify.app/)
-
-- 📝 I regularly write articles on [## 📝 I write on topics related to tech, coding, and development](## 📝 I write on topics related to tech, coding, and development)
-
-- 💬 Ask me about **💬 Ask me about: - **Java best practices**: Writing clean, efficient, and maintainable code with Java. - **Spring Boot**: Building microservices, REST APIs, and integrating Spring Security. - **Concurrency in Java**: How to handle multi-threading, parallel processing, and performance optimization. - **Design patterns in Java**: How to apply **Singleton**, **Factory**, and other patterns effectively in your projects.**
-
-- 📫 How to reach me **imrajeevnayan@gmail.com**
-
-- ⚡ Fun fact **I once spent an entire weekend refactoring my personal project just to reduce the number of lines of code by 100. - I’ve written a **Java app** that generates **random motivational quotes**… and yes, it’s in an infinite loop, just like the rest of my code.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/imrajeevnayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imrajeevnayan" height="30" width="40" /></a>
-<a href="https://instagram.com/imrrajeevnayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imrrajeevnayan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/imrajeevnayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imrajeevnayan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imrajeevnayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imrajeevnayan" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/imrajeevnayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="imrajeevnayan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/imrajeevnayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="imrajeevnayan" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imrajeevnayan&label=Profile%20views&color=0e75b6&style=flat" alt="imrajeevnayan" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrajeevnayan&show_icons=true&locale=en&layout=compact" alt="imrajeevnayan" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&locale=en" alt="imrajeevnayan" /></p>
+- 🔭 **Currently working on:**
+  - Building a **Java-based RESTful API** using Spring Boot with PostgreSQL for an inventory system.
+  - Developing a **JavaFX desktop app** to automate daily tasks.
+  - Contributing to **open-source Java libraries** to streamline project setup.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrajeevnayan&" alt="imrajeevnayan" /></p>
+- 🌱 **Currently learning:**
+  - Java 17+ (records, pattern matching, sealed classes)
+  - **Spring Cloud** for microservices architecture.
+  - **Kotlin** for cross-platform and Android development.
+  - **Docker** for containerized Java app deployment.
+
+- 👯 **Looking to collaborate on:**
+  - Open-source Spring Boot or Java back-end projects.
+  - Java-based ML/AI libraries.
+  - Distributed systems with **Apache Kafka** and Java.
+
+- 🤝 **Seeking help with:**
+  - Advanced **Spring Boot** best practices
+  - Microservices and cloud deployment optimization
+  - Machine learning integration with Java
+
+- 💬 **Ask me about:**
+  - Java best practices & performance tuning
+  - Spring Boot APIs & security
+  - Concurrency & multithreading in Java
+  - Java design patterns (Singleton, Factory, etc.)
+
+- 📫 **Reach me at:** `imrajeevnayan@gmail.com`
+
+- 🧠 **Fun fact:**  
+  Refactored an entire Java project just to reduce 100 lines of code for cleaner readability.  
+  Also built a Java app that generates infinite motivational quotes — it's stuck in a loop, just like most of us 😄
+
+---
+
+### 🌐 Portfolio
+🔗 [https://rajeevnayan01.netlify.app](https://rajeevnayan01.netlify.app)
+
+---
+
+### 📝 I write about:
+- Java trends & tools
+- Coding tips & productivity
+- Backend architecture & design patterns
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=default" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact" alt="top languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajeevnayan&" alt="streak" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=imrajeevnayan&theme=flat" />
+  </a>
+</p>
+
+---
+
+### 🔧 Languages & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/imrajeevnayan" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/></a>
+  <a href="https://instagram.com/imrrajeevnayan" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30"/></a>
+  <a href="https://www.hackerrank.com/imrajeevnayan" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="30" height="30"/></a>
+  <a href="https://leetcode.com/imrajeevnayan" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="30" height="30"/></a>
+  <a href="https://www.hackerearth.com/imrajeevnayan" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerearth/hackerearth-original.svg" alt="HackerEarth" width="30" height="30"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/imrajeevnayan" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/geeksforgeeks/geeksforgeeks-original.svg" alt="GFG" width="30" height="30"/></a>
+</p>
