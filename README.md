@@ -22,6 +22,22 @@
 
 ---
 
+<!-- 🌟 Rive Interactive Animation Section -->
+<div align="center">
+  <!-- The following iframe will not render on GitHub, but works on supported HTML platforms. -->
+  <!--
+  <iframe src="https://rive.app/community/3906-6790-animated-rocket/embed" width="350" height="350" style="background: transparent; border: none;" allowfullscreen></iframe>
+  <br>
+  -->
+  <a href="https://rive.app/community/3906-6790-animated-rocket/" target="_blank">
+    <img src="https://cdn.rive.app/animations/vehicles.riv-1.png" width="350" alt="Rive Animation Preview"/>
+    <br>
+    <b>🚀 View Interactive Animation on Rive.app</b>
+  </a>
+</div>
+
+---
+
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
