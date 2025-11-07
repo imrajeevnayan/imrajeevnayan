@@ -3,7 +3,7 @@
 # 🚀 Rajeev Nayan | Java Full Stack & Spring Boot Developer
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/banner.gif" width="100%" alt="Coding Banner">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Coding Banner">
 </div>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#64f4ab">Rajeev Nayan</span></h1>
@@ -107,10 +107,6 @@
 
 ## 🚀 My Spring Boot Journey
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/spring-boot-architecture.png" width="800" alt="Spring Boot Architecture">
-</div>
-
 ### 🏗️ Architecture Patterns I Master
 - **Microservices** with Spring Cloud
 - **Domain-Driven Design** (DDD) principles
@@ -134,10 +130,6 @@
 
 ## 🎨 Frontend Development Philosophy
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/frontend-architecture.png" width="800" alt="Frontend Architecture">
-</div>
-
 ### 🌐 Modern Frontend Stack
 - **React** with functional components and hooks
 - **State management** with Redux and Context API
@@ -156,22 +148,26 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=64f4ab&icon_color=64f4ab&text_color=ffffff" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&bg_color=00000000&title_color=64f4ab&text_color=ffffff" height="180" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=64f4ab&icon_color=64f4ab&text_color=ffffff" height="180" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&bg_color=00000000&title_color=64f4ab&text_color=ffffff" height="180" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajeevnayan&theme=vue-dark&hide_border=true&background=00000000&stroke=64f4ab&ring=64f4ab&fire=64f4ab&currStreakLabel=ffffff" height="150" />
-</p>
+</div>
 
 ---
 
 ## 🛠️ Full Stack Development Workflow
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/full-stack-workflow.png" width="800" alt="Full Stack Workflow">
-</div>
 
 ### 🔄 Development Process
 1. **Requirements Analysis** & System Design
@@ -187,22 +183,6 @@
 - **Frontend Tests** with Jest and React Testing Library
 - **End-to-End Tests** with Cypress
 - **API Tests** with Postman and Rest Assured
-
----
-
-## 🎯 Projects Showcase
-
-### 📚 Library Management System
-A full-stack application demonstrating Spring Boot backend with React frontend integration.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/imrajeevnayan/library-management-system/main/images/home.png" width="800" alt="Library Management System">
-</div>
-
-**Tech Stack:**
-- **Backend:** Spring Boot 3, Spring Security, JPA, PostgreSQL
-- **Frontend:** React, Tailwind CSS, Axios
-- **Features:** JWT Authentication, CRUD Operations, Role-based Access
 
 ---
 
@@ -266,10 +246,6 @@ public class QualityCodeController {
 ---
 
 ## 📝 Blog & Writing
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/blog-banner.png" width="800" alt="Blog Banner">
-</div>
 
 I write about:
 - **Spring Boot** best practices and advanced patterns
