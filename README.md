@@ -6,7 +6,7 @@
 <!-- Animated Header with Gradient Text -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=64f4ab&center=true&vCenter=true&multiline=true&width=900&lines=Hi+👋,+I'm+Rajeev+Nayan;Java+Full+Stack+Wizard+%7C+Spring+Boot+Enthusiast;Crafting+Code+with+☕+and+❤️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=64f4ab&center=true&vCenter=true&multiline=true&width=900&lines=Hi+👋,+I'm+Rajeev+Nayan;Java+Full+Stack+Wizard+%7C+Spring+Boot+Enthusiast;Crafting+Code+with+☕+and+❤️" alt="Typing SVG" />
   </a>
 </div>
 
@@ -64,17 +64,17 @@
 ## 🖥️ What I'm Working On
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow-slim.png" alt="rainbow line" />
+  <img src="https://raw.githubusercontent.com/marketplace/plugins/readme-animations/1e2f6853-07a1-4c4d-a696-6a268a561f7a" width="100%" style="max-width:800px;" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=64f4ab&center=true&vCenter=true&multiline=true&width=800&lines=$+Building+microservices+with+Spring+Boot+3+and+Java+17;$+Designing+RESTful+APIs+with+Spring+Security+and+JWT;$+Implementing+PostgreSQL+databases+with+JPA/Hibernate;$+Exploring+Kubernetes+for+container+orchestration;$+Learning+Kotlin+for+modern+JVM+development" alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=64f4ab&center=true&vCenter=true&multiline=true&width=800&lines=$+Building+microservices+with+Spring+Boot+3+and+Java+17;$+Designing+RESTful+APIs+with+Spring+Security+and+JWT;$+Implementing+PostgreSQL+databases+with+JPA/Hibernate;$+Exploring+Kubernetes+for+container+orchestration;$+Learning+Kotlin+for+modern+JVM+development" alt="Terminal Typing" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow-slim.png" alt="rainbow line" />
+  <img src="https://raw.githubusercontent.com/marketplace/plugins/readme-animations/1e2f6853-07a1-4c4d-a696-6a268a561f7a" width="100%" style="max-width:800px;" />
 </div>
 
 <!-- Code Snippet Showcase -->
