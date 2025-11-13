@@ -146,27 +146,14 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=64f4ab&icon_color=64f4ab&text_color=ffffff" height="180" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&bg_color=00000000&title_color=64f4ab&text_color=ffffff" height="180" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajeevnayan&theme=vue-dark&hide_border=true&background=00000000&stroke=64f4ab&ring=64f4ab&fire=64f4ab&currStreakLabel=ffffff" height="150" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=radical" height="170" />
+</p>
 
 ---
-
 ## 🛠️ Full Stack Development Workflow
 
 ### 🔄 Development Process
@@ -203,34 +190,6 @@
 - **Cloud Deployment** on AWS
 - **Monitoring** with Prometheus and Grafana
 
----
-
-## 💡 Code Philosophy
-
-```java
-@RestController
-@RequestMapping("/api/v1/quality")
-public class QualityCodeController {
-    
-    @GetMapping("/clean")
-    public ResponseEntity<String> cleanCode() {
-        return ResponseEntity.ok(
-            "Code is read more often than it is written. " +
-            "Invest in clarity, simplicity, and maintainability."
-        );
-    }
-    
-    @GetMapping("/fullstack")
-    public ResponseEntity<String> fullStackPhilosophy() {
-        return ResponseEntity.ok(
-            "Great full-stack development is about seamless integration. " +
-            "The backend provides robust functionality, " +
-            "the frontend delivers intuitive experiences, " +
-            "and together they create exceptional applications."
-        );
-    }
-}
-```
 
 ---
 
