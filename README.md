@@ -1,4 +1,18 @@
+<!-- This is the animated header from Capsule Render -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Rajeev%20Nayan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20%26%20Spring%20Boot%20Developer&descSize=25&descAlignY=55" />
+</div>
 
+<h3 align="center">🌱 Crafting Scalable Solutions with Spring Boot & Modern Frontend Technologies</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imrajeevnayan&label=Profile%20views&color=64f4ab&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 🏗️ My Development Universe
+<!-- ... rest of your content ... -->
 # 🚀 Rajeev Nayan | Java Full Stack & Spring Boot Developer
 
 <div align="center">
