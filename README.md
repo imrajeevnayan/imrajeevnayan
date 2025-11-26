@@ -1,3 +1,19 @@
+<!-- This is the animated GIF header -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
+</div>
+
+<h1 align="center">Hi 👋, I'm <span style="color:#64f4ab">Rajeev Nayan</span></h1>
+<h3 align="center">🌱 Crafting Scalable Solutions with Spring Boot & Modern Frontend Technologies</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imrajeevnayan&label=Profile%20views&color=64f4ab&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 🏗️ My Development Universe
+<!-- ... rest of your README content ... -->
 # 🚀 Rajeev Nayan | Java Full Stack & Spring Boot Developer
 
 <div align="center">
