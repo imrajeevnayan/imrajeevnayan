@@ -1,3 +1,7 @@
+<div align="center">
+  <h1>Rajeev Nayan</h1>
+  <p><em>Java Full Stack & Spring Boot Developer</em></p>
+</div>
 # 🚀 Rajeev Nayan | Java Full Stack & Spring Boot Developer
 
 <div align="center">
