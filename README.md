@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="[YOUR_IMAGE_URL_HERE]" alt="Rajeev Nayan | Java Full Stack & Spring Boot Developer">
+</div>
 # 🚀 Rajeev Nayan | Java Full Stack & Spring Boot Developer
 
 <div align="center">
