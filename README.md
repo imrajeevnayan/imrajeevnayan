@@ -50,12 +50,13 @@ Hi, I'm **Rajeev Nayan**, a passionate **Full Stack Java Developer**. I speciali
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats Card (Make sure to replace `YOUR_USERNAME` with your GitHub username) -->
+[<!-- GitHub Stats Card (Make sure to replace `YOUR_USERNAME` with your GitHub username) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=gruvbox" alt="Most Used Languages"/>
-</p>
+</p>](https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=gruvbox
+)
 
 ---
 
