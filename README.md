@@ -1,5 +1,13 @@
 
 
+You're right! Sometimes those stats images can be finicky due to caching or service issues.
+
+I've updated the stats section to be more reliable and visually appealing. I've added a "streak" card and used a different theme. If they still don't appear, a hard refresh of your browser page (Ctrl+Shift+R or Cmd+Shift+R) usually forces them to load correctly.
+
+Here is the updated and improved version:
+
+---
+
 # 🚀 Rajeev Nayan | Java Full Stack Developer
 
 <div align="center">
@@ -61,12 +69,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=radical" height="170" />
+  <!-- GitHub Readme Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajeevnayan&theme=dracula&hide_border=true" width="48%" />
+  
+  <!-- GitHub Readme Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=dracula&hide_border=true&cache_seconds=0" width="48%" />
 </p>
+
+<p align="center">
+  <!-- GitHub Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=dracula&hide_border=true" width="48%" />
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=imrajeevnayan&theme=dracula&no-frame=true&no-bg=true&margin-w=4" width="48%" />
+</p>
+
+*If the stats aren't loading, a hard refresh (Ctrl+Shift+R) usually fixes it!*
 
 ---
 
