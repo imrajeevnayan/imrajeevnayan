@@ -1,76 +1,84 @@
-# 🚀 Rajeev Nayan | Full Stack Java & Spring Boot Developer
+# 🚀 Rajeev Nayan | Full Stack Developer
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Coding Banner" />
 </div>
 
-## 👋 Hi, I'm Rajeev!
+---
 
-Crafting **scalable backends** with **Spring Boot** and building **beautiful, responsive frontends** with **React**. Let's make the web awesome together!
+## 👨‍💻 Who Am I?
+
+Hi, I'm **Rajeev Nayan**, a passionate **Full Stack Java Developer**. I specialize in building scalable backends with **Spring Boot** and crafting beautiful, dynamic frontends using **React**. I love clean code, and I’m always learning the latest tech to improve my skills.
 
 ---
 
 ## ⚙️ Tech Stack
 
 **Backend**  
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>  
-<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>  
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>  
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+- Java, Spring Boot, Hibernate, PostgreSQL, MySQL
 
 **Frontend**  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>  
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>  
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+- React, JavaScript, Tailwind CSS, HTML5, CSS3
+
+**Tools**  
+- Docker, Kubernetes, AWS, Git, GitHub Actions
 
 ---
 
-## 🌱 What I’m Up To
+## 🌱 What I’m Working On
 
-- **Currently Building:** Microservices with **Spring Boot** & **Java 17**, and sleek frontends using **React** + **Tailwind CSS**.
-- **Learning:** Diving into **Spring Cloud** for distributed systems and **Kubernetes** for cloud-native apps.
-- **Looking to Collaborate on:** Open-source **Spring Boot** projects, **full-stack** apps, and **microservices**.
+- **Building microservices** using **Spring Boot** and **Java 17**
+- **Creating responsive frontends** with **React** and **Tailwind CSS**
+- Implementing **secure APIs** with **Spring Security** and **JWT**
+- **Learning Spring Cloud** for distributed systems
+
+---
+
+## 🛠️ Development Highlights
+
+**Backend**  
+- Creating RESTful APIs with **Spring Boot**  
+- Managing databases using **PostgreSQL** and **MySQL**  
+- Ensuring security with **Spring Security** & **JWT**
+
+**Frontend**  
+- Building **dynamic UIs** with **React**  
+- Styling with **Tailwind CSS** for responsive layouts  
+- Optimizing performance and scalability
+
+---
+
+## 📊 GitHub Stats
+
+<!-- GitHub Stats Card (Make sure to replace `YOUR_USERNAME` with your GitHub username) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=gruvbox" alt="Most Used Languages"/>
+</p>
 
 ---
 
 ## 🌍 Let's Connect!
 
-- [LinkedIn](https://linkedin.com/in/imrajeevnayan)
-- [GitHub](https://github.com/imrajeevnayan)
-- 📧 [imrajeevnayan@gmail.com](mailto:imrajeevnayan@gmail.com)
+- **LinkedIn**: [LinkedIn](https://linkedin.com/in/imrajeevnayan)
+- **GitHub**: [GitHub](https://github.com/imrajeevnayan)
+- **Email**: [imrajeevnayan@gmail.com](mailto:imrajeevnayan@gmail.com)
+- **Portfolio**: [Personal Website](https://rajeevnayan01.netlify.app)
 
 ---
 
-## 🎯 GitHub Stats
+## 🎯 Fun Facts
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=radical" height="170" />
-</p>
-
----
-
-## 🚀 DevOps & Deployment
-
-**Tools I Love:**  
-- **Docker** for containerization  
-- **Kubernetes** for orchestration  
-- **AWS** for cloud hosting  
+- ☕ **Coffee > Code** – My IDE runs on coffee.  
+- 🧑‍💻 I refactor code for fun.  
+- 🌍 I see everything as **components and APIs**.
 
 ---
 
-## 📝 Fun Facts
+## 🚀 Let's Build Something Amazing Together!
 
-- **Coffee > Code** ☕️
-- I refactor code just for fun (and better performance)!
-- I see the world in components and APIs—everything has a purpose.
-
----
-
-## 🤝 Let's Build Something Amazing!
-
-Feel free to reach out if you want to collaborate on cool projects, improve codebases, or just chat tech!
+I'm always up for collaboration on exciting projects. Whether it’s building microservices, designing full-stack applications, or optimizing performance, let's connect and create something impactful!
 
 ---
 
@@ -79,5 +87,5 @@ Feel free to reach out if you want to collaborate on cool projects, improve code
   <br>
   <i>"The best error message is the one that never shows up." - Thomas Fuchs</i>
   <br>
-  <i>Thanks for dropping by! Let’s create something epic together! 🚀</i>
+  <i>Thanks for visiting my profile! Let’s build something great! 🚀</i>
 </div>
