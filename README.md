@@ -1,25 +1,35 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rajeev+Nayan;Full+Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+React" alt="Typing Animation" />
+<!-- Animated Handshake -->
+<img src="https://user-images.githubusercontent.com/18380574/176939344-598e0c8b-b458-4476-9d7f-2a2c1d9a60d0.gif" width="200" />
 
 <br>
 
+<!-- Dynamic Typing -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=38&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rajeev+Nayan;Full+Stack+Java+Developer;Building+scalable+solutions..." alt="Typing" />
+
+<!-- Visitor Count -->
+<img src="https://profile-counter.glitch.me/imrajeevnayan/count.svg" alt="Visitor Count" />
+
+<br><br>
+
+<!-- Social Buttons with Gradient Look -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imrajeevnayan)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imrajeevnayan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imrajeevnayan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=about.me&logoColor=white)](https://rajeevnayan.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://rajeevnayan.vercel.app)
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Full Stack Java Developer** passionate about building scalable backends with **Spring Boot** and crafting sleek, interactive frontends using **React**. Clean code is my mantra.
+I’m a **Full Stack Java Developer** passionate about building scalable backends with **Spring Boot** and crafting sleek frontends using **React**. I turn coffee into clean code. ☕
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
-### 🛠️ Backend
+### 🌐 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -32,7 +42,7 @@ I’m a **Full Stack Java Developer** passionate about building scalable backend
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🚀 Tools & DevOps
+### ☁️ DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -40,44 +50,45 @@ I’m a **Full Stack Java Developer** passionate about building scalable backend
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
+<!-- Animated Wave Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imrajeevnayan&theme=react-dark&hide_border=true&area=true&color=38BDF8&line=38BDF8&point=ffffff" width="100%" />
+
+<br>
+
+<!-- Stats Grid -->
 <div align="center">
-  <!-- Stats with Icons for a lively look -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imrajeevnayan&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
-  <!-- Streak Stats (Fire Animation) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajeevnayan&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<br>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=radical&hide_border=true&hide_title=false" />
 
 ---
 
 ## 🌱 Current Focus
 
-- 🏗️ **Microservices** with **Spring Boot** & **Java 17**
-- 🎨 **Responsive UIs** using **React** & **Tailwind CSS**
-- 🔐 **Secure APIs** with **Spring Security** & **JWT**
-- ☁️ **Exploring** **Spring Cloud**
+- 🏗️ Building **Microservices** with Spring Cloud
+- 🎨 Mastering **React 18** & **Next.js**
+- 🔐 **JWT Authentication** & Security
 
 ---
 
-## 🎯 Fun Facts
-
-- ☕ **Coffee > Code**
-- 💻 I refactor code for fun!
-- 🌍 I see everything as **components and APIs**
-
----
 <div align="center">
 
-## 🚀 Let’s Collaborate!
-"The best error message is the one that never shows up."*
+## 💬 Let's Connect!
+
+*"The best error message is the one that never shows up."*
+
 <br>
 <i>Thanks for stopping by! Let’s build something great! 🚀</i>
-</div>
+
+<br><br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
-```
