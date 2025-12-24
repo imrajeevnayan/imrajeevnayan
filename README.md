@@ -1,4 +1,4 @@
-# 🚀 Rajeev Nayan | Full Stack Developer
+# 🚀 **Rajeev Nayan | Full Stack Developer**
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Coding Banner" />
@@ -6,68 +6,68 @@
 
 ---
 
-## 👨‍💻 Who Am I?
+## 👨‍💻 **About Me**
 
-Hi, I'm **Rajeev Nayan**, a passionate **Full Stack Java Developer**. I specialize in building scalable backends with **Spring Boot** and crafting beautiful, dynamic frontends using **React**. I love clean code, and I’m always learning the latest tech to improve my skills.
+Hey there! I’m **Rajeev Nayan**, a **Full Stack Java Developer**. I’m passionate about building scalable backends with **Spring Boot** and crafting sleek, interactive frontends using **React**. Clean code is my mantra, and I’m always up for learning the latest tech to stay ahead!
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ **My Tech Stack**
 
 **Backend**  
-- Java, Spring Boot, Hibernate, PostgreSQL, MySQL
+- Java | Spring Boot | Hibernate | PostgreSQL | MySQL  
 
 **Frontend**  
-- React, JavaScript, Tailwind CSS, HTML5, CSS3
+- React | JavaScript | Tailwind CSS | HTML5 | CSS3  
 
 **Tools**  
-- Docker, Kubernetes, AWS, Git, GitHub Actions
+- Docker | Kubernetes | AWS | Git | GitHub Actions
 
 ---
 
-## 🌱 What I’m Working On
+## 🌱 **Current Focus**
 
-- **Building microservices** using **Spring Boot** and **Java 17**
-- **Creating responsive frontends** with **React** and **Tailwind CSS**
-- Implementing **secure APIs** with **Spring Security** and **JWT**
-- **Learning Spring Cloud** for distributed systems
+- **Microservices** with **Spring Boot** & **Java 17**
+- **Responsive UIs** using **React** & **Tailwind CSS**
+- **Secure APIs** with **Spring Security** & **JWT**
+- **Exploring** **Spring Cloud** for distributed systems
 
 ---
 
-## 🛠️ Development Highlights
+## 🛠️ **Development Highlights**
 
 **Backend**  
-- Creating RESTful APIs with **Spring Boot**  
-- Managing databases using **PostgreSQL** and **MySQL**  
-- Ensuring security with **Spring Security** & **JWT**
+- Designing **RESTful APIs** with **Spring Boot**  
+- Managing databases: **PostgreSQL**, **MySQL**  
+- Strengthening security with **Spring Security** & **JWT**
 
 **Frontend**  
 - Building **dynamic UIs** with **React**  
-- Styling with **Tailwind CSS** for responsive layouts  
-- Optimizing performance and scalability
+- Creating responsive layouts with **Tailwind CSS**  
+- Optimizing app performance and scalability
 
 ---
 
-## 🌍 Let's Connect!
+## 🌍 **Let’s Connect!**
 
-- **LinkedIn**: [LinkedIn](https://linkedin.com/in/imrajeevnayan)
-- **GitHub**: [GitHub](https://github.com/imrajeevnayan)
-- **Email**: [imrajeevnayan@gmail.com](mailto:imrajeevnayan@gmail.com)
-- **Portfolio**: [Personal Website](https://rajeevnayan01.netlify.app)
-
----
-
-## 🎯 Fun Facts
-
-- ☕ **Coffee > Code** – My IDE runs on coffee.  
-- 🧑‍💻 I refactor code for fun.  
-- 🌍 I see everything as **components and APIs**.
+- **LinkedIn**: [linkedin.com/in/imrajeevnayan](https://linkedin.com/in/imrajeevnayan)  
+- **GitHub**: [github.com/imrajeevnayan](https://github.com/imrajeevnayan)  
+- **Email**: [imrajeevnayan@gmail.com](mailto:imrajeevnayan@gmail.com)  
+- **Portfolio**: [rajeevnayan01.netlify.app](https://rajeevnayan.vercel.app)
 
 ---
 
-## 🚀 Let's Build Something Amazing Together!
+## 🎯 **Fun Facts**
 
-I'm always up for collaboration on exciting projects. Whether it’s building microservices, designing full-stack applications, or optimizing performance, let's connect and create something impactful!
+- ☕ **Coffee > Code**  
+- 💻 I refactor code for fun!  
+- 🌍 I see everything as **components and APIs**
+
+---
+
+## 🚀 **Let’s Build Something Awesome!**
+
+Ready to collaborate on cool projects? Whether it’s designing **full-stack applications** or building **microservices**, let’s team up and make something impactful!
 
 ---
 
@@ -76,5 +76,5 @@ I'm always up for collaboration on exciting projects. Whether it’s building mi
   <br>
   <i>"The best error message is the one that never shows up." - Thomas Fuchs</i>
   <br>
-  <i>Thanks for visiting my profile! Let’s build something great! 🚀</i>
+  <i>Thanks for stopping by! Let’s build something great! 🚀</i>
 </div>
