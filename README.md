@@ -6,7 +6,7 @@
 <br>
 
 <!-- Dynamic Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=38&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rajeev+Nayan;Full+Stack+Java+Developer;Building+scalable+solutions..." alt="Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=38&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rajeev+Nayan;Full+Stack+Java+Developer; Building+scalable+solutions..." alt="Typing" />
 
 <br><br>
 
