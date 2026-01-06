@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm RAJEEV NAYAN</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
@@ -18,7 +17,7 @@
 
 - 💬 Ask me about **Spring Boot, React, Java, JavaScript**
 
-- 📫 How to reach me **rajeevnayan@example.com** (update with your email)
+- 📫 How to reach me **imrajeevnayan@gmail.com** (update with your email)
 
 - ⚡ Fun fact **I think coding is like magic – turning coffee into code!**
 
@@ -34,11 +33,31 @@
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | |
 
+### 🛡️ Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,mysql,postgres,docker,git,aws" alt="Skills Icons" />
+</p>
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imrajeevnayan&theme=dracula" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imrajeevnayan&theme=dracula" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imrajeevnayan&theme=dracula" alt="Repos per Language" />
+</p>
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imrajeevnayan&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imrajeevnayan&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+### 🐍 Contributions Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/output/snake.svg" alt="Snake animation" />
 </p>
 
 ### 🏆 Projects
