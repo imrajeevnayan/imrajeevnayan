@@ -1,8 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm RAJEEV NAYAN</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/786133257/23992222-aba7-475c-b24c-ab95c5c5e582" alt="Waving Hand" width="200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+I'm+RAJEEV+NAYAN;Full+Stack+Developer;Building+with+Spring+Boot+%26+React" alt="Typing SVG" />
 </p>
 
 <p align="left"> 
@@ -21,11 +22,6 @@
 
 - ⚡ Fun fact **I think coding is like magic – turning coffee into code!**
 
-<h3 align="center">Coding in Action</h3>
-<p align="center">
-  <img src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Coding GIF" width="500"/>
-</p>
-
 ### 🚀 My Tech Stack
 <p align="center">
   <img src="https://cdnl.iconscout.com/lottie/premium/thumb/cloud-server-stack-animation-gif-download-5332800.gif" alt="Tech Stack GIF" width="300"/>
@@ -40,8 +36,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajeevnayan&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imrajeevnayan&theme=dracula" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imrajeevnayan&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imrajeevnayan&theme=dracula" alt="Repos per Language" />
 </p>
 
 ### 🏆 Projects
