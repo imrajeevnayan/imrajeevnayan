@@ -77,10 +77,10 @@
 <div align="center">
 
 <a href="https://github.com/imrajeevnayan">
-  <img src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36" alt="Rajeev's Github Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imrajeevnayan&theme=dracula" alt="Rajeev's Github Stats" />
 </a>
 <a href="https://github.com/imrajeevnayan">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=dracula&hide_border=true&bg_color=282a36" alt="Top Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imrajeevnayan&theme=dracula" alt="Top Languages" />
 </a>
 
 <br/>
@@ -88,6 +88,14 @@
 <a href="https://github.com/imrajeevnayan">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajeevnayan&theme=dracula&hide_border=true&background=282a36" alt="Streak Stats" />
 </a>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
