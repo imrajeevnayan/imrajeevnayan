@@ -52,6 +52,9 @@
   <a href="https://x.com/imrajeevnayan" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
+  <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-20232A?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio"/>
+  </a>
   <a href="https://www.rajeevnayan.in/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
   </a>
@@ -106,13 +109,19 @@
 
 <div align="center">
   <a href="https://codolio.com/profile/imrajeevnayan">
-    <img src="https://dsastats.vercel.app/api/codolio/imrajeevnayan" alt="Codolio Stats" />
+    <img src="https://codolio.com/api/v1/profile/card/imrajeevnayan?theme=dark" alt="Codolio Profile Card" />
   </a>
-
-  <br/>
+  
+  <br/><br/>
 
   <a href="https://leetcode.com/u/imrajeevnayan/">
     <img src="https://leetcard.jacoblin.cool/imrajeevnayan?theme=dark&font=Inter" alt="LeetCode Stats" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=imrajeevnayan&theme=dracula" alt="GeeksforGeeks Stats" />
   </a>
 </div>
 
@@ -127,9 +136,6 @@
 </a>
 <a href="https://github.com/imrajeevnayan">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imrajeevnayan&theme=dracula" alt="Top Languages" />
-</a>
-<a href="https://www.geeksforgeeks.org/profile/imrajeevnayan">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=imrajeevnayan&theme=dracula" alt="GeeksforGeeks Stats" />
 </a>
 
 <br/>
