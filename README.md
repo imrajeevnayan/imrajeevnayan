@@ -121,7 +121,7 @@
   <br/><br/>
 
   <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=imrajeevnayan&theme=dracula" alt="GeeksforGeeks Stats" />
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/imrajeevnayan?theme=dracula" alt="GeeksforGeeks Stats" />
   </a>
 </div>
 
