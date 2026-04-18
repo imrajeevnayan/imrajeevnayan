@@ -1,4 +1,14 @@
 <div align="center">
+  <!-- SEO Keywords for Discoverability -->
+  <!--
+  Metadata: {
+    "name": "Rajeev Nayan",
+    "role": "Full Stack Developer",
+    "skills": ["Java", "Spring Boot", "React", "Microservices", "JavaScript", "DSA"],
+    "profiles": ["GitHub", "LinkedIn", "LeetCode", "GeeksforGeeks", "HackerRank"],
+    "location": "India"
+  }
+  -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Rajeev%20Nayan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=62" alt="Header" width="100%"/>
 </div>
 
@@ -30,7 +40,7 @@
   <a href="https://instagram.com/imrajeevnayan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.leetcode.com/imrajeevnayan" target="_blank">
+  <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://www.hackerrank.com/profile/imrajeevnayan" target="_blank">
@@ -38,6 +48,9 @@
   </a>
   <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://x.com/imrajeevnayan" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://www.rajeevnayan.in/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
@@ -67,7 +80,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Spring Boot, React, Java, JavaScript**
 - 📫 How to reach me: **imrajeevnayan@gmail.com**
-- 🏆 Solved **350+ problems** on GeeksforGeeks & LeetCode
+- 🏆 Solved **350+ problems** across various platforms (see details below)
 - ⚡ Fun fact: **I think coding is like magic – turning coffee into code! ☕**
 
 ---
@@ -89,6 +102,16 @@
 
 ---
 
+### 🏆 Coding Practice Stats
+
+<div align="center">
+  <a href="https://leetcode.com/u/imrajeevnayan/">
+    <img src="https://leetcard.jacoblin.cool/imrajeevnayan?theme=dark&font=Inter" alt="LeetCode Stats" />
+  </a>
+</div>
+
+<br/>
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -98,6 +121,12 @@
 </a>
 <a href="https://github.com/imrajeevnayan">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imrajeevnayan&theme=dracula" alt="Top Languages" />
+</a>
+<a href="https://leetcode.com/imrajeevnayan">
+  <img src="https://github-readme-stats.vercel.app/api/leetcode?username=imrajeevnayan&theme=dracula" alt="LeetCode Stats" />
+</a>
+<a href="https://www.geeksforgeeks.org/profile/imrajeevnayan">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=imrajeevnayan&theme=dracula" alt="GeeksforGeeks Stats" />
 </a>
 
 <br/>
@@ -127,6 +156,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[BookMyShow](https://github.com/imrajeevnayan/BookMyShow)** | 🎬 A premium movie ticket booking platform clone with secure authentication. | `Spring Boot` `React` |
+| **[Food-Fiesta](https://github.com/imrajeevnayan/Food-Fiesta)** | 🍕 An online food ordering system with cart management and order tracking. | `Java` `Spring Boot` |
 | **[rajeevnayan](https://github.com/imrajeevnayan/rajeevnayan)** | 🎨 My personal portfolio showcasing specific skills and projects. | `TypeScript` `React` |
 | **[restaurant-website](https://github.com/imrajeevnayan/restaurant-website)** | 🍔 A fully responsive restaurant website with modern UI/UX. | `HTML` `CSS` `JS` |
 | **[Rento](https://github.com/imrajeevnayan/Rento)** | 🏠 Rental platform featuring Google OAuth integration for secure login. | `React` `Google OAuth` |
