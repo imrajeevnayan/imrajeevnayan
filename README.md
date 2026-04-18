@@ -105,6 +105,12 @@
 ### 🏆 Coding Practice Stats
 
 <div align="center">
+  <a href="https://codolio.com/profile/imrajeevnayan">
+    <img src="https://dsastats.vercel.app/api/codolio/imrajeevnayan" alt="Codolio Stats" />
+  </a>
+
+  <br/>
+
   <a href="https://leetcode.com/u/imrajeevnayan/">
     <img src="https://leetcard.jacoblin.cool/imrajeevnayan?theme=dark&font=Inter" alt="LeetCode Stats" />
   </a>
@@ -121,9 +127,6 @@
 </a>
 <a href="https://github.com/imrajeevnayan">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imrajeevnayan&theme=dracula" alt="Top Languages" />
-</a>
-<a href="https://leetcode.com/imrajeevnayan">
-  <img src="https://github-readme-stats.vercel.app/api/leetcode?username=imrajeevnayan&theme=dracula" alt="LeetCode Stats" />
 </a>
 <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan">
   <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=imrajeevnayan&theme=dracula" alt="GeeksforGeeks Stats" />
