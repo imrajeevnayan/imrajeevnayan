@@ -109,7 +109,7 @@
 
 <div align="center">
   <a href="https://codolio.com/profile/imrajeevnayan">
-    <img src="https://codolio.com/api/v1/profile/card/imrajeevnayan?theme=dark" alt="Codolio Profile Card" />
+    <img src="https://dsastats.vercel.app/api/codolio/imrajeevnayan" alt="Codolio Profile Card" />
   </a>
   
   <br/><br/>
