@@ -109,7 +109,7 @@
 
 <div align="center">
   <a href="https://codolio.com/profile/imrajeevnayan">
-    <img src="https://dsastats.vercel.app/api/codolio/imrajeevnayan" alt="Codolio Profile Card" />
+    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/dsaStats/dsa-stats.svg" alt="Codolio Stats" />
   </a>
   
   <br/><br/>
@@ -120,8 +120,8 @@
 
   <br/><br/>
 
-  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/imrajeevnayan?theme=dracula" alt="GeeksforGeeks Stats" />
+  <a href="https://www.geeksforgeeks.org/user/imrajeevnayan/">
+    <img src="https://gfgstatscard.vercel.app/imrajeevnayan?theme=dracula" alt="GeeksforGeeks Stats" />
   </a>
 </div>
 
