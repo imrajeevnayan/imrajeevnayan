@@ -1,36 +1,44 @@
 name: Update DSA Stats Card
 
-permissions:
-  contents: write
-
 on:
+  schedule: # execute every 24 hours
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
-  schedule: # execute every 24 hours
-      - cron: "0 0 * * *"
+
+# Prevent parallel runs from conflicting
+concurrency:
+  group: update-dsa-stats
+  cancel-in-progress: true
 
 jobs:
   update-dsa-stats-card:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Fetch Stats and Save SVG
         run: |
           # Fetch the latest stats card as an SVG
           curl -o dsa-stats.svg https://dsastats.vercel.app/api/codolio/imrajeevnayan
           
-      - name: Force Commit changes
+      - name: Commit and Push Changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # Add a timestamp to the commit message to ensure a new commit is created
           git add dsa-stats.svg
-          git commit -m "Update stats card $(date +'%Y-%m-%d %H:%M:%S')"
           
-          # Push the changes to the remote repository
-          git push --force origin HEAD:dsaStats
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes in stats card. Skipping commit."
+          else
+            git commit -m "Update stats card $(date +'%Y-%m-%d %H:%M:%S')"
+            git push --force origin HEAD:dsaStats
+          fi

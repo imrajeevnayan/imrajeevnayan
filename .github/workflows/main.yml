@@ -8,6 +8,11 @@ on:
     branches:
       - main
 
+# Prevent parallel runs from conflicting
+concurrency:
+  group: update-profile-assets
+  cancel-in-progress: true
+
 jobs:
   update-assets:
     runs-on: ubuntu-latest
@@ -38,8 +43,10 @@ jobs:
       - name: Prepare Assets for Deployment
         run: |
           mkdir -p dist
-          mv profile-3d-contrib dist/
-          # Snake SVGs are already in dist/
+          # If 3d-contrib was generated outside dist, move it. 
+          if [ -d "profile-3d-contrib" ]; then
+            mv profile-3d-contrib dist/
+          fi
 
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
