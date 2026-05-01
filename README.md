@@ -131,6 +131,12 @@
 
 <div align="center">
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=imrajeevnayan&theme=dracula" alt="trophy" />
+</a>
+
+<br/>
+
 <a href="https://github.com/imrajeevnayan">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imrajeevnayan&theme=dracula&cache_seconds=1800" alt="Rajeev's Github Stats" />
 </a>
