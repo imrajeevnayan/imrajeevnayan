@@ -46,7 +46,7 @@
   <a href="https://www.hackerrank.com/profile/imrajeevnayan" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
   <a href="https://x.com/imrajeevnayan" target="_blank">
@@ -120,7 +120,7 @@
 
   <br/><br/>
 
-  <a href="https://www.geeksforgeeks.org/user/imrajeevnayan/">
+  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity">
     <img src="https://gfgstatscard.vercel.app/imrajeevnayan?theme=dracula" alt="GeeksforGeeks Stats" />
   </a>
 </div>
