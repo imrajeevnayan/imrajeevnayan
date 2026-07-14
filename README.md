@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://github.com/imrajeevnayan">
-    <img src="profile-grid.svg" alt="Profile Grid" width="100%" />
+    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/profile-grid.svg" alt="Profile Grid" width="100%" />
   </a>
 </div>
 
