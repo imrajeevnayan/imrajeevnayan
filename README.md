@@ -9,7 +9,6 @@
     "location": "India"
   }
   -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Rajeev%20Nayan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=62" alt="Header" width="100%"/>
 </div>
 
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
