@@ -30,6 +30,12 @@
 </p>
 
 <div align="center">
+  <a href="https://github.com/imrajeevnayan">
+    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/profile-grid.svg" alt="Profile Grid" width="100%" />
+  </a>
+</div>
+
+<div align="center">
 
   <a href="https://linkedin.com/in/imrajeevnayan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
