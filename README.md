@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://github.com/imrajeevnayan">
-    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/output/profile-3d-contrib/profile-green-animate.svg" alt="Profile Grid" width="100%" />
+    <img src="profile-grid.svg" alt="Profile Grid" width="100%" />
   </a>
 </div>
 
