@@ -128,6 +128,8 @@
   <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity">
     <img src="https://gfgstatscard.vercel.app/imrajeevnayan?theme=dracula" alt="GeeksforGeeks Stats" />
   </a>
+  <br/>
+  <sub><i>Note: The GeeksforGeeks stats card might show empty values (`_ _`) because GeeksforGeeks frequently updates their profile page layout, which breaks the third-party stats parser.</i></sub>
 </div>
 
 <br/>
