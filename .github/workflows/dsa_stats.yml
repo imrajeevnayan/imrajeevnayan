@@ -4,9 +4,6 @@ on:
   schedule: # execute every 24 hours
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 # Prevent parallel runs from conflicting
 concurrency:
@@ -32,13 +29,17 @@ jobs:
           else
             echo "Fetch timed out or returned invalid payload. Preserving existing SVG."
           fi
+
+          # Force GitHub README image cache to refresh after each scheduled/manual update.
+          cache_buster="$(date -u +'%Y%m%d%H%M')"
+          perl -0pi -e "s#dsa-stats\\.svg\\?v=[0-9]+#dsa-stats.svg?v=$cache_buster#g" README.md
           
       - name: Commit and Push Changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          git add dsa-stats.svg
+          git add dsa-stats.svg README.md
           
           # Only commit if there are changes
           if git diff --staged --quiet; then
