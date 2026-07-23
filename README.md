@@ -129,7 +129,19 @@
   <br/><br/>
 
   <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
-    <img src="https://gfgstatscard.vercel.app/imrajeevnayan" alt="GeeksforGeeks Stats" />
+    <img src="https://img.shields.io/badge/GFG%20Solved-571-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Solved Problems"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
+    <img src="https://img.shields.io/badge/Basic-157-2F8D46?style=for-the-badge" alt="GeeksforGeeks Basic Problems"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
+    <img src="https://img.shields.io/badge/Easy-223-2F8D46?style=for-the-badge" alt="GeeksforGeeks Easy Problems"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-179-F9A825?style=for-the-badge" alt="GeeksforGeeks Medium Problems"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
+    <img src="https://img.shields.io/badge/Hard-12-D32F2F?style=for-the-badge" alt="GeeksforGeeks Hard Problems"/>
   </a>
 
   <br/><br/>

@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 18 * * *" # Once a day at 18:00 UTC
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 # Prevent parallel runs from conflicting
 concurrency:
