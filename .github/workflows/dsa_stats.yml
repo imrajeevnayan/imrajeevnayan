@@ -25,8 +25,13 @@ jobs:
 
       - name: Fetch Stats and Save SVG
         run: |
-          # Fetch the latest stats card as an SVG
-          curl -o dsa-stats.svg https://dsastats.vercel.app/api/codolio/imrajeevnayan
+          # Fetch with timeout and validate SVG content
+          curl -s --max-time 15 -o dsa-stats-temp.svg https://dsastats.vercel.app/api/codolio/imrajeevnayan || true
+          if [ -s dsa-stats-temp.svg ] && grep -q "<svg" dsa-stats-temp.svg; then
+            mv dsa-stats-temp.svg dsa-stats.svg
+          else
+            echo "Fetch timed out or returned invalid payload. Preserving existing SVG."
+          fi
           
       - name: Commit and Push Changes
         run: |

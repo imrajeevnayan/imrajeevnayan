@@ -113,23 +113,15 @@
 ### 🏆 Coding Practice Stats
 
 <div align="center">
-  <a href="https://codolio.com/profile/imrajeevnayan">
-    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/dsaStats/dsa-stats.svg" alt="Codolio Stats" />
+  <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
+    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats.svg" alt="Competitive Programming & DSA Overview" width="100%" />
   </a>
   
   <br/><br/>
 
-  <a href="https://leetcode.com/u/imrajeevnayan/">
+  <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/imrajeevnayan?theme=dark&font=Inter" alt="LeetCode Stats" />
   </a>
-
-  <br/><br/>
-
-  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity">
-    <img src="https://gfgstatscard.vercel.app/imrajeevnayan?theme=dracula" alt="GeeksforGeeks Stats" />
-  </a>
-  <br/>
-  <sub><i>Note: The GeeksforGeeks stats card might show empty values (`_ _`) because GeeksforGeeks frequently updates their profile page layout, which breaks the third-party stats parser.</i></sub>
 </div>
 
 <br/>
@@ -137,12 +129,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=imrajeevnayan&theme=dracula" alt="trophy" />
-</a>
-
-<br/>
 
 <a href="https://github.com/imrajeevnayan">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imrajeevnayan&theme=dracula&cache_seconds=1800" alt="Rajeev's Github Stats" />

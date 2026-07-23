@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="340" viewBox="0 0 850 340" fill="none">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5px; rx: 12px; }
+    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 18px; fill: #58a6ff; }
+    .subtitle { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 14px; fill: #8b949e; }
+    .label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 13px; fill: #c9d1d9; }
+    .stat-val { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 22px; fill: #f0f6fc; }
+    .sub-val { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 12px; fill: #8b949e; }
+    .easy { fill: #00b8a3; }
+    .medium { fill: #ffc01e; }
+    .hard { fill: #ff375f; }
+    .gfg-green { fill: #298d46; }
+    .card-bg { fill: #161b22; rx: 8px; stroke: #21262d; stroke-width: 1px; }
+    .bar-bg { fill: #21262d; rx: 4px; }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" width="850" height="340" />
+
+  <!-- Header -->
+  <g transform="translate(25, 25)">
+    <text class="title" x="0" y="10">⚡ Competitive Programming &amp; DSA Overview</text>
+    <text class="subtitle" x="0" y="30">Aggregated stats from LeetCode, GeeksforGeeks &amp; Codolio</text>
+  </g>
+
+  <!-- Card 1: Total Overview -->
+  <g transform="translate(25, 80)">
+    <rect class="card-bg" width="245" height="230" />
+    <text class="label" x="20" y="30">TOTAL PROBLEMS SOLVED</text>
+    <text class="stat-val" x="20" y="70" font-size="36" fill="#3fb950">910+</text>
+    <text class="sub-val" x="20" y="92">Across all platforms</text>
+
+    <line x1="20" y1="115" x2="225" y2="115" stroke="#30363d" stroke-width="1" />
+
+    <text class="label" x="20" y="140">GLOBAL ACCURACY</text>
+    <text class="stat-val" x="20" y="170" fill="#58a6ff">85%+</text>
+    <text class="sub-val" x="20" y="192">Consistency Score</text>
+  </g>
+
+  <!-- Card 2: LeetCode -->
+  <g transform="translate(290, 80)">
+    <rect class="card-bg" width="260" height="230" />
+    <circle cx="30" cy="30" r="10" fill="#ffa116" />
+    <text class="title" x="48" y="35" fill="#ffa116">LeetCode</text>
+    <text class="stat-val" x="20" y="75">350+ <tspan class="sub-val">Solved</tspan></text>
+
+    <!-- Easy Bar -->
+    <text class="label" x="20" y="110">Easy</text>
+    <text class="sub-val" x="210" y="110">200+</text>
+    <rect class="bar-bg" x="20" y="118" width="220" height="8" />
+    <rect class="easy" x="20" y="118" width="130" height="8" rx="4" />
+
+    <!-- Medium Bar -->
+    <text class="label" x="20" y="148">Medium</text>
+    <text class="sub-val" x="210" y="148">140+</text>
+    <rect class="bar-bg" x="20" y="156" width="220" height="8" />
+    <rect class="medium" x="20" y="156" width="90" height="8" rx="4" />
+
+    <!-- Hard Bar -->
+    <text class="label" x="20" y="186">Hard</text>
+    <text class="sub-val" x="210" y="186">14+</text>
+    <rect class="bar-bg" x="20" y="194" width="220" height="8" />
+    <rect class="hard" x="20" y="194" width="25" height="8" rx="4" />
+  </g>
+
+  <!-- Card 3: GeeksforGeeks -->
+  <g transform="translate(570, 80)">
+    <rect class="card-bg" width="255" height="230" />
+    <circle cx="30" cy="30" r="10" class="gfg-green" />
+    <text class="title" x="48" y="35" fill="#298d46">GeeksforGeeks</text>
+    
+    <text class="stat-val" x="20" y="75">564 <tspan class="sub-val">Solved</tspan></text>
+    <text class="sub-val" x="20" y="95">Coding Score: <tspan fill="#3fb950" font-weight="bold">1368</tspan></text>
+
+    <!-- Difficulty stats -->
+    <text class="label" x="20" y="130">Basic / School</text>
+    <text class="sub-val" x="190" y="130">157</text>
+
+    <text class="label" x="20" y="155">Easy</text>
+    <text class="sub-val" x="190" y="155">223</text>
+
+    <text class="label" x="20" y="180">Medium</text>
+    <text class="sub-val" x="190" y="180">173</text>
+
+    <text class="label" x="20" y="205">Hard</text>
+    <text class="sub-val" x="190" y="205">11</text>
+  </g>
+</svg>
