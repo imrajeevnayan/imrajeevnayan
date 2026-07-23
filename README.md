@@ -119,6 +119,21 @@
   
   <br/><br/>
 
+  <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-20232A?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio Profile"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
+    <img src="https://gfgstatscard.vercel.app/imrajeevnayan" alt="GeeksforGeeks Stats" />
+  </a>
+
+  <br/><br/>
+
   <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/imrajeevnayan?theme=dark&font=Inter" alt="LeetCode Stats" />
   </a>
