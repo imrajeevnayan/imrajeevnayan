@@ -22,7 +22,7 @@
 
   <rect class="bg" width="920" height="540" rx="14" />
   <text class="title" x="28" y="34">Competitive Programming &amp; DSA Overview</text>
-  <text class="muted" x="28" y="54">Auto-updated from LeetCode, GeeksforGeeks &amp; Codolio - 2026-07-24 12:21 UTC</text>
+  <text class="muted" x="28" y="54">Auto-updated from LeetCode, GeeksforGeeks &amp; Codolio - 2026-07-24 13:19 UTC</text>
 
   <g transform="translate(24, 76)">
     <rect class="card" width="188" height="270" rx="8" />
@@ -40,17 +40,17 @@
     <rect class="card" width="228" height="270" rx="8" />
     <circle cx="28" cy="28" r="8" fill="#ffa116" />
     <text class="title" x="44" y="34" fill="#ffa116">LeetCode</text>
-    <text class="value" x="20" y="78">579 <tspan class="muted">Solved</tspan></text>
-    <text class="muted" x="20" y="98">Accepted submissions: 1,716</text>
+    <text class="value" x="20" y="78">582 <tspan class="muted">Solved</tspan></text>
+    <text class="muted" x="20" y="98">Accepted submissions: 1,720</text>
 
     <text class="label" x="20" y="132">Easy</text>
-    <text class="muted" x="182" y="132">301</text>
+    <text class="muted" x="182" y="132">303</text>
     
     <rect x="20" y="142" width="188" height="8" rx="4" fill="#253041" />
     <rect x="20" y="142" width="98" height="8" rx="4" fill="#00b8a3" />
 
     <text class="label" x="20" y="176">Medium</text>
-    <text class="muted" x="182" y="176">244</text>
+    <text class="muted" x="182" y="176">245</text>
     
     <rect x="20" y="186" width="188" height="8" rx="4" fill="#253041" />
     <rect x="20" y="186" width="79" height="8" rx="4" fill="#ffc01e" />
@@ -89,8 +89,8 @@
   <g transform="translate(472, 362)">
     <rect width="416" height="44" rx="10" fill="#121821" stroke="#30363d" />
     <text class="muted" x="18" y="27">GFG dynamic details</text>
-    <text class="label" x="158" y="27">Score 1,406</text>
-    <text class="label" x="248" y="27">Monthly 169</text>
+    <text class="label" x="158" y="27">Score 1,420</text>
+    <text class="label" x="248" y="27">Monthly 183</text>
     <text class="label" x="344" y="27">Streak 1</text>
   </g>
 
@@ -101,7 +101,7 @@
       <text x="26" y="30" text-anchor="middle" class="mini-icon" fill="#2f8d46">CS</text>
       <text x="52" y="30" class="dark-label">Coding Score</text>
       <rect x="200" y="10" width="36" height="28" rx="14" fill="#ffffff" stroke="#bfe8ce" />
-      <text x="218" y="29" text-anchor="middle" class="dark-value">1,406</text>
+      <text x="218" y="29" text-anchor="middle" class="dark-value">1,420</text>
     </g>
   
     <g transform="translate(292, 362)">
@@ -110,7 +110,7 @@
       <text x="26" y="30" text-anchor="middle" class="mini-icon" fill="#3b82f6">OK</text>
       <text x="52" y="30" class="dark-label">Problems Solved</text>
       <rect x="200" y="10" width="36" height="28" rx="14" fill="#ffffff" stroke="#bfe8ce" />
-      <text x="218" y="29" text-anchor="middle" class="dark-value">573</text>
+      <text x="218" y="29" text-anchor="middle" class="dark-value">577</text>
     </g>
 
   <g transform="translate(24, 430)">
