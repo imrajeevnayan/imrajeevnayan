@@ -22,12 +22,12 @@
 
   <rect class="bg" width="920" height="540" rx="14" />
   <text class="title" x="28" y="34">Competitive Programming &amp; DSA Overview</text>
-  <text class="muted" x="28" y="54">Auto-updated from LeetCode, GeeksforGeeks &amp; Codolio - 2026-07-24 06:36 UTC</text>
+  <text class="muted" x="28" y="54">Auto-updated from LeetCode, GeeksforGeeks &amp; Codolio - 2026-07-24 12:21 UTC</text>
 
   <g transform="translate(24, 76)">
     <rect class="card" width="188" height="270" rx="8" />
     <text class="label" x="20" y="34">TOTAL SOLVED</text>
-    <text class="value" x="20" y="78" fill="#3fb950">1,439</text>
+    <text class="value" x="20" y="78" fill="#3fb950">1,444</text>
     <text class="muted" x="20" y="98">Live platform total</text>
     <line x1="20" x2="168" y1="126" y2="126" stroke="#30363d" />
     <text class="label" x="20" y="154">ACTIVE SOURCES</text>
@@ -40,20 +40,20 @@
     <rect class="card" width="228" height="270" rx="8" />
     <circle cx="28" cy="28" r="8" fill="#ffa116" />
     <text class="title" x="44" y="34" fill="#ffa116">LeetCode</text>
-    <text class="value" x="20" y="78">574 <tspan class="muted">Solved</tspan></text>
-    <text class="muted" x="20" y="98">Accepted submissions: 1,708</text>
+    <text class="value" x="20" y="78">579 <tspan class="muted">Solved</tspan></text>
+    <text class="muted" x="20" y="98">Accepted submissions: 1,716</text>
 
     <text class="label" x="20" y="132">Easy</text>
-    <text class="muted" x="182" y="132">297</text>
+    <text class="muted" x="182" y="132">301</text>
     
     <rect x="20" y="142" width="188" height="8" rx="4" fill="#253041" />
-    <rect x="20" y="142" width="97" height="8" rx="4" fill="#00b8a3" />
+    <rect x="20" y="142" width="98" height="8" rx="4" fill="#00b8a3" />
 
     <text class="label" x="20" y="176">Medium</text>
-    <text class="muted" x="182" y="176">243</text>
+    <text class="muted" x="182" y="176">244</text>
     
     <rect x="20" y="186" width="188" height="8" rx="4" fill="#253041" />
-    <rect x="20" y="186" width="80" height="8" rx="4" fill="#ffc01e" />
+    <rect x="20" y="186" width="79" height="8" rx="4" fill="#ffc01e" />
 
     <text class="label" x="20" y="220">Hard</text>
     <text class="muted" x="182" y="220">34</text>
@@ -117,7 +117,7 @@
     <rect width="864" height="86" rx="12" fill="#f8fafc" stroke="#d8dee4" />
     <text class="dark-title" x="18" y="28" fill="#0f172a">Codolio Dynamic Summary</text>
     <text class="dark-label" x="18" y="50" fill="#64748b">Aggregated from verified Codolio platform profiles</text>
-    <text class="dark-label" x="680" y="28" fill="#f97316">Submissions 3,537</text>
+    <text class="dark-label" x="680" y="28" fill="#f97316">Submissions 3,545</text>
     <text class="dark-label" x="680" y="50" fill="#166534">Max 45 | Current 28</text>
   </g>
 
@@ -125,7 +125,7 @@
     <g transform="translate(300, 452)">
       <rect width="132" height="86" rx="10" fill="#ffffff" stroke="#d8dee4" />
       <text x="18" y="30" class="dark-label" fill="#4b5563">Total Questions</text>
-      <text x="18" y="66" class="big-dark" fill="#050816">1,439</text>
+      <text x="18" y="66" class="big-dark" fill="#050816">1,444</text>
       <text x="114" y="30" text-anchor="end" class="tiny-dark" fill="#f97316">Codolio</text>
     </g>
   
