@@ -2,11 +2,13 @@ const fs = require("fs");
 
 const LEETCODE_USER = "imrajeevnayan";
 const GFG_USER = "imrajeevnayan";
+const CODOLIO_USER = "imrajeevnayan";
 
 const urls = {
   leetcode: `https://alfa-leetcode-api.onrender.com/${LEETCODE_USER}/solved`,
   gfgProfile: `https://www.geeksforgeeks.org/profile/${GFG_USER}?tab=activity`,
   gfgCard: `https://gfgstatscard.vercel.app/${GFG_USER}`,
+  codolio: `https://api.codolio.com/profile?userKey=${CODOLIO_USER}`,
 };
 
 const colors = {
@@ -24,6 +26,7 @@ const colors = {
   hard: "#ff7043",
   school: "#8ee8e0",
   leetcode: "#ffa116",
+  codolio: "#f97316",
 };
 
 async function getText(url) {
@@ -91,6 +94,54 @@ function parseGfgDifficulty(cardSvg) {
   };
 }
 
+function parseCodolio(profile) {
+  const profiles = profile?.data?.platformProfiles?.platformProfiles || [];
+  const activeDays = new Set();
+  let totalQuestions = 0;
+  let submissions = 0;
+  let maxStreak = 0;
+
+  for (const platform of profiles) {
+    if (platform.isVerified === false) continue;
+
+    totalQuestions += Number(platform.totalQuestionStats?.totalQuestionCounts || 0);
+
+    const activity = platform.dailyActivityStatsResponse || {};
+    maxStreak = Math.max(maxStreak, Number(activity.maxStreak || 0));
+
+    const calendar = activity.submissionCalendar || {};
+    for (const [timestamp, count] of Object.entries(calendar)) {
+      if (Number(count) <= 0) continue;
+      activeDays.add(Number(timestamp));
+      submissions += Number(count);
+    }
+  }
+
+  const sortedDays = [...activeDays].sort((a, b) => a - b);
+  let currentStreak = 0;
+
+  if (sortedDays.length) {
+    currentStreak = 1;
+    for (let i = sortedDays.length - 1; i > 0; i--) {
+      const diffDays = Math.round((sortedDays[i] - sortedDays[i - 1]) / 86400);
+      if (diffDays === 1) {
+        currentStreak += 1;
+      } else {
+        break;
+      }
+    }
+  }
+
+  return {
+    totalQuestions,
+    totalActiveDays: activeDays.size,
+    submissions,
+    maxStreak,
+    currentStreak,
+    platformCount: profiles.filter((platform) => platform.isVerified !== false).length,
+  };
+}
+
 function donutSegments(items, cx, cy, r, width) {
   const total = items.reduce((sum, item) => sum + item.value, 0) || 1;
   const circumference = 2 * Math.PI * r;
@@ -127,9 +178,19 @@ function pill({ x, y, label, value, accent, icon }) {
     </g>`;
 }
 
-function generateSvg({ leetcode, gfg, generatedAt }) {
+function statCard({ x, y, width, title, value, caption, accent }) {
+  return `
+    <g transform="translate(${x}, ${y})">
+      <rect width="${width}" height="86" rx="10" fill="#ffffff" stroke="#d8dee4" />
+      <text x="18" y="30" class="dark-label" fill="#4b5563">${escapeXml(title)}</text>
+      <text x="18" y="66" class="big-dark" fill="#050816">${escapeXml(value)}</text>
+      ${caption ? `<text x="${width - 18}" y="30" text-anchor="end" class="tiny-dark" fill="${accent}">${escapeXml(caption)}</text>` : ""}
+    </g>`;
+}
+
+function generateSvg({ leetcode, gfg, codolio, generatedAt }) {
   const lcTotal = leetcode.solvedProblem || 0;
-  const totalSolved = lcTotal + gfg.solved;
+  const totalSolved = codolio.totalQuestions || lcTotal + gfg.solved;
   const gfgTotal = gfg.difficulty.total || gfg.solved;
   const donut = [
     { label: "School", value: gfg.difficulty.school, color: colors.school },
@@ -139,9 +200,9 @@ function generateSvg({ leetcode, gfg, generatedAt }) {
     { label: "Hard", value: gfg.difficulty.hard, color: colors.hard },
   ];
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="920" height="430" viewBox="0 0 920 430" role="img" aria-labelledby="title desc">
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="920" height="540" viewBox="0 0 920 540" role="img" aria-labelledby="title desc">
   <title id="title">Dynamic Coding Practice Stats</title>
-  <desc id="desc">Auto-generated LeetCode and GeeksforGeeks statistics for ${LEETCODE_USER}</desc>
+  <desc id="desc">Auto-generated LeetCode, GeeksforGeeks and Codolio statistics for ${LEETCODE_USER}</desc>
   <style>
     .bg { fill: ${colors.bg}; }
     .card { fill: ${colors.panel}; stroke: ${colors.border}; stroke-width: 1; }
@@ -154,12 +215,14 @@ function generateSvg({ leetcode, gfg, generatedAt }) {
     .dark-title { font: 700 15px 'Segoe UI', Ubuntu, sans-serif; fill: #0b1220; }
     .dark-label { font: 600 12px 'Segoe UI', Ubuntu, sans-serif; fill: #111827; }
     .dark-value { font: 800 13px 'Segoe UI', Ubuntu, sans-serif; fill: #111827; }
+    .big-dark { font: 900 32px 'Segoe UI', Ubuntu, sans-serif; fill: #050816; }
+    .tiny-dark { font: 700 10px 'Segoe UI', Ubuntu, sans-serif; fill: #64748b; }
     .donut-number { font: 900 32px 'Segoe UI', Ubuntu, sans-serif; fill: #050816; }
     .donut-caption { font: 600 11px 'Segoe UI', Ubuntu, sans-serif; fill: #111827; }
     .mini-icon { font: 900 15px 'Segoe UI', Ubuntu, sans-serif; }
   </style>
 
-  <rect class="bg" width="920" height="430" rx="14" />
+  <rect class="bg" width="920" height="540" rx="14" />
   <text class="title" x="28" y="34">Competitive Programming &amp; DSA Overview</text>
   <text class="muted" x="28" y="54">Auto-updated from LeetCode, GeeksforGeeks &amp; Codolio - ${escapeXml(generatedAt)}</text>
 
@@ -170,8 +233,8 @@ function generateSvg({ leetcode, gfg, generatedAt }) {
     <text class="muted" x="20" y="98">Live platform total</text>
     <line x1="20" x2="168" y1="126" y2="126" stroke="${colors.border}" />
     <text class="label" x="20" y="154">ACTIVE SOURCES</text>
-    <text class="value" x="20" y="194" fill="${colors.blue}">2</text>
-    <text class="muted" x="20" y="214">LeetCode + GFG</text>
+    <text class="value" x="20" y="194" fill="${colors.blue}">3</text>
+    <text class="muted" x="20" y="214">LeetCode + GFG + Codolio</text>
     <text class="tiny" x="20" y="246">Regenerated by GitHub Actions</text>
   </g>
 
@@ -223,28 +286,42 @@ function generateSvg({ leetcode, gfg, generatedAt }) {
 
   ${pill({ x: 24, y: 362, label: "Coding Score", value: formatNumber(gfg.score), accent: colors.green, icon: "CS" })}
   ${pill({ x: 292, y: 362, label: "Problems Solved", value: formatNumber(gfg.solved), accent: "#3b82f6", icon: "OK" })}
+
+  <g transform="translate(24, 430)">
+    <rect width="864" height="86" rx="12" fill="#f8fafc" stroke="#d8dee4" />
+    <text class="dark-title" x="18" y="28" fill="#0f172a">Codolio Dynamic Summary</text>
+    <text class="dark-label" x="18" y="50" fill="#64748b">Aggregated from verified Codolio platform profiles</text>
+    <text class="dark-label" x="680" y="28" fill="#f97316">Submissions ${formatNumber(codolio.submissions)}</text>
+    <text class="dark-label" x="680" y="50" fill="#166534">Max ${formatNumber(codolio.maxStreak)} | Current ${formatNumber(codolio.currentStreak)}</text>
+  </g>
+
+  ${statCard({ x: 300, y: 452, width: 132, title: "Total Questions", value: formatNumber(codolio.totalQuestions), caption: "Codolio", accent: colors.codolio })}
+  ${statCard({ x: 448, y: 452, width: 132, title: "Active Days", value: formatNumber(codolio.totalActiveDays), caption: "Live", accent: colors.green })}
+  ${statCard({ x: 596, y: 452, width: 118, title: "Platforms", value: formatNumber(codolio.platformCount), caption: "Synced", accent: colors.blue })}
 </svg>
 `;
 }
 
 async function main() {
-  const [leetcode, gfgProfileHtml, gfgCardSvg] = await Promise.all([
+  const [leetcode, gfgProfileHtml, gfgCardSvg, codolioProfile] = await Promise.all([
     getJson(urls.leetcode),
     getText(urls.gfgProfile),
     getText(urls.gfgCard),
+    getJson(urls.codolio),
   ]);
 
   const gfg = {
     ...gfgArticleCount(gfgProfileHtml),
     difficulty: parseGfgDifficulty(gfgCardSvg),
   };
+  const codolio = parseCodolio(codolioProfile);
 
-  if (!leetcode.solvedProblem || !gfg.solved || !gfg.difficulty.total) {
+  if (!leetcode.solvedProblem || !gfg.solved || !gfg.difficulty.total || !codolio.totalQuestions) {
     throw new Error("Live stats response was incomplete; refusing to overwrite dsa-stats.svg");
   }
 
   const generatedAt = new Date().toISOString().slice(0, 16).replace("T", " ") + " UTC";
-  fs.writeFileSync("dsa-stats.svg", generateSvg({ leetcode, gfg, generatedAt }));
+  fs.writeFileSync("dsa-stats.svg", generateSvg({ leetcode, gfg, codolio, generatedAt }));
 }
 
 main().catch((error) => {
