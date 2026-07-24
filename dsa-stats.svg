@@ -19,8 +19,8 @@
   </style>
 
   <rect class="bg" width="920" height="430" rx="14" />
-  <text class="title" x="28" y="34">⚡ Competitive Programming &amp; DSA Overview</text>
-  <text class="muted" x="28" y="54">Auto-updated from LeetCode, GeeksforGeeks &amp; Codolio • 2026-07-24 06:18 UTC</text>
+  <text class="title" x="28" y="34">Competitive Programming &amp; DSA Overview</text>
+  <text class="muted" x="28" y="54">Auto-updated from LeetCode, GeeksforGeeks &amp; Codolio - 2026-07-24 06:23 UTC</text>
 
   <g transform="translate(24, 76)">
     <rect class="card" width="188" height="270" rx="8" />
@@ -96,7 +96,7 @@
     <g transform="translate(24, 362)">
       <rect width="250" height="48" rx="12" fill="#f7fbf8" stroke="#d7f0df" />
       <rect x="12" y="10" width="28" height="28" rx="9" fill="#2f8d4622" />
-      <text x="26" y="30" text-anchor="middle" class="mini-icon" fill="#2f8d46"></></text>
+      <text x="26" y="30" text-anchor="middle" class="mini-icon" fill="#2f8d46">CS</text>
       <text x="52" y="30" class="dark-label">Coding Score</text>
       <rect x="200" y="10" width="36" height="28" rx="14" fill="#ffffff" stroke="#bfe8ce" />
       <text x="218" y="29" text-anchor="middle" class="dark-value">1,406</text>
@@ -105,7 +105,7 @@
     <g transform="translate(292, 362)">
       <rect width="250" height="48" rx="12" fill="#f7fbf8" stroke="#d7f0df" />
       <rect x="12" y="10" width="28" height="28" rx="9" fill="#3b82f622" />
-      <text x="26" y="30" text-anchor="middle" class="mini-icon" fill="#3b82f6">✓</text>
+      <text x="26" y="30" text-anchor="middle" class="mini-icon" fill="#3b82f6">OK</text>
       <text x="52" y="30" class="dark-label">Problems Solved</text>
       <rect x="200" y="10" width="36" height="28" rx="14" fill="#ffffff" stroke="#bfe8ce" />
       <text x="218" y="29" text-anchor="middle" class="dark-value">573</text>

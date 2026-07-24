@@ -20,15 +20,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch Stats and Save SVG
+      - name: Generate Dynamic Stats SVG
         run: |
-          # Fetch with timeout and validate SVG content
-          curl -s --max-time 15 -o dsa-stats-temp.svg https://dsastats.vercel.app/api/codolio/imrajeevnayan || true
-          if [ -s dsa-stats-temp.svg ] && grep -q "<svg" dsa-stats-temp.svg; then
-            mv dsa-stats-temp.svg dsa-stats.svg
-          else
-            echo "Fetch timed out or returned invalid payload. Preserving existing SVG."
-          fi
+          node scripts/generate-dsa-stats.js
 
           # Force GitHub README image cache to refresh after each scheduled/manual update.
           cache_buster="$(date -u +'%Y%m%d%H%M')"
