@@ -22,7 +22,7 @@
 
   <rect class="bg" width="920" height="540" rx="14" />
   <text class="title" x="28" y="34">Competitive Programming &amp; DSA Overview</text>
-  <text class="muted" x="28" y="54">Auto-updated from LeetCode, GeeksforGeeks &amp; Codolio - 2026-07-26 01:52 UTC</text>
+  <text class="muted" x="28" y="54">Auto-updated from LeetCode, GeeksforGeeks &amp; Codolio - 2026-07-27 02:00 UTC</text>
 
   <g transform="translate(24, 76)">
     <rect class="card" width="188" height="270" rx="8" />
@@ -40,17 +40,17 @@
     <rect class="card" width="228" height="270" rx="8" />
     <circle cx="28" cy="28" r="8" fill="#ffa116" />
     <text class="title" x="44" y="34" fill="#ffa116">LeetCode</text>
-    <text class="value" x="20" y="78">590 <tspan class="muted">Solved</tspan></text>
-    <text class="muted" x="20" y="98">Accepted submissions: 1,747</text>
+    <text class="value" x="20" y="78">593 <tspan class="muted">Solved</tspan></text>
+    <text class="muted" x="20" y="98">Accepted submissions: 1,751</text>
 
     <text class="label" x="20" y="132">Easy</text>
-    <text class="muted" x="182" y="132">307</text>
+    <text class="muted" x="182" y="132">309</text>
     
     <rect x="20" y="142" width="188" height="8" rx="4" fill="#253041" />
     <rect x="20" y="142" width="98" height="8" rx="4" fill="#00b8a3" />
 
     <text class="label" x="20" y="176">Medium</text>
-    <text class="muted" x="182" y="176">249</text>
+    <text class="muted" x="182" y="176">250</text>
     
     <rect x="20" y="186" width="188" height="8" rx="4" fill="#253041" />
     <rect x="20" y="186" width="79" height="8" rx="4" fill="#ffc01e" />
@@ -66,22 +66,22 @@
     <rect class="light-card" width="416" height="270" rx="12" />
     <text class="dark-title" x="28" y="34">Problems Overview</text>
     <circle cx="112" cy="146" r="62" fill="none" stroke="#eef2f7" stroke-width="24" />
-    <circle cx="112" cy="146" r="62" fill="none" stroke="#cceea2" stroke-width="24" stroke-dasharray="102.08 287.48" stroke-dashoffset="25.00" transform="rotate(-90 112 146)" stroke-linecap="butt" />
-<circle cx="112" cy="146" r="62" fill="none" stroke="#a7d477" stroke-width="24" stroke-dasharray="152.77 236.79" stroke-dashoffset="-77.08" transform="rotate(-90 112 146)" stroke-linecap="butt" />
-<circle cx="112" cy="146" r="62" fill="none" stroke="#ffb340" stroke-width="24" stroke-dasharray="126.38 263.18" stroke-dashoffset="-229.84" transform="rotate(-90 112 146)" stroke-linecap="butt" />
-<circle cx="112" cy="146" r="62" fill="none" stroke="#ff7043" stroke-width="24" stroke-dasharray="8.33 381.22" stroke-dashoffset="-356.22" transform="rotate(-90 112 146)" stroke-linecap="butt" />
-    <text class="donut-number" x="112" y="138" text-anchor="middle">561</text>
+    <circle cx="112" cy="146" r="62" fill="none" stroke="#cceea2" stroke-width="24" stroke-dasharray="102.55 287.01" stroke-dashoffset="25.00" transform="rotate(-90 112 146)" stroke-linecap="butt" />
+<circle cx="112" cy="146" r="62" fill="none" stroke="#a7d477" stroke-width="24" stroke-dasharray="152.79 236.76" stroke-dashoffset="-77.55" transform="rotate(-90 112 146)" stroke-linecap="butt" />
+<circle cx="112" cy="146" r="62" fill="none" stroke="#ffb340" stroke-width="24" stroke-dasharray="125.95 263.61" stroke-dashoffset="-230.35" transform="rotate(-90 112 146)" stroke-linecap="butt" />
+<circle cx="112" cy="146" r="62" fill="none" stroke="#ff7043" stroke-width="24" stroke-dasharray="8.26 381.30" stroke-dashoffset="-356.30" transform="rotate(-90 112 146)" stroke-linecap="butt" />
+    <text class="donut-number" x="112" y="138" text-anchor="middle">566</text>
     <text class="donut-caption" x="112" y="158" text-anchor="middle">Problems</text>
     <text class="donut-caption" x="112" y="172" text-anchor="middle">Solved</text>
 
     <rect x="210" y="77" width="10" height="10" rx="2" fill="#8ee8e0" />
     <text class="dark-label" x="228" y="86">School (0)</text>
 <rect x="210" y="105" width="10" height="10" rx="2" fill="#cceea2" />
-    <text class="dark-label" x="228" y="114">Basic (147)</text>
+    <text class="dark-label" x="228" y="114">Basic (149)</text>
 <rect x="210" y="133" width="10" height="10" rx="2" fill="#a7d477" />
-    <text class="dark-label" x="228" y="142">Easy (220)</text>
+    <text class="dark-label" x="228" y="142">Easy (222)</text>
 <rect x="210" y="161" width="10" height="10" rx="2" fill="#ffb340" />
-    <text class="dark-label" x="228" y="170">Medium (182)</text>
+    <text class="dark-label" x="228" y="170">Medium (183)</text>
 <rect x="210" y="189" width="10" height="10" rx="2" fill="#ff7043" />
     <text class="dark-label" x="228" y="198">Hard (12)</text>
   </g>
@@ -89,8 +89,8 @@
   <g transform="translate(472, 362)">
     <rect width="416" height="44" rx="10" fill="#121821" stroke="#30363d" />
     <text class="muted" x="18" y="27">GFG dynamic details</text>
-    <text class="label" x="158" y="27">Score 1,424</text>
-    <text class="label" x="248" y="27">Monthly 187</text>
+    <text class="label" x="158" y="27">Score 1,434</text>
+    <text class="label" x="248" y="27">Monthly 197</text>
     <text class="label" x="344" y="27">Streak 0</text>
   </g>
 
@@ -101,7 +101,7 @@
       <text x="26" y="30" text-anchor="middle" class="mini-icon" fill="#2f8d46">CS</text>
       <text x="52" y="30" class="dark-label">Coding Score</text>
       <rect x="200" y="10" width="36" height="28" rx="14" fill="#ffffff" stroke="#bfe8ce" />
-      <text x="218" y="29" text-anchor="middle" class="dark-value">1,424</text>
+      <text x="218" y="29" text-anchor="middle" class="dark-value">1,434</text>
     </g>
   
     <g transform="translate(292, 362)">
@@ -110,7 +110,7 @@
       <text x="26" y="30" text-anchor="middle" class="mini-icon" fill="#3b82f6">OK</text>
       <text x="52" y="30" class="dark-label">Problems Solved</text>
       <rect x="200" y="10" width="36" height="28" rx="14" fill="#ffffff" stroke="#bfe8ce" />
-      <text x="218" y="29" text-anchor="middle" class="dark-value">561</text>
+      <text x="218" y="29" text-anchor="middle" class="dark-value">566</text>
     </g>
 
   <g transform="translate(24, 430)">
