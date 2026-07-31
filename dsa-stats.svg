@@ -22,12 +22,12 @@
 
   <rect class="bg" width="920" height="540" rx="14" />
   <text class="title" x="28" y="34">Competitive Programming &amp; DSA Overview</text>
-  <text class="muted" x="28" y="54">Auto-updated from LeetCode, GeeksforGeeks &amp; Codolio - 2026-07-30 01:27 UTC</text>
+  <text class="muted" x="28" y="54">Auto-updated from LeetCode, GeeksforGeeks &amp; Codolio - 2026-07-31 01:54 UTC</text>
 
   <g transform="translate(24, 76)">
     <rect class="card" width="188" height="270" rx="8" />
     <text class="label" x="20" y="34">TOTAL SOLVED</text>
-    <text class="value" x="20" y="78" fill="#3fb950">1,492</text>
+    <text class="value" x="20" y="78" fill="#3fb950">1,511</text>
     <text class="muted" x="20" y="98">Live platform total</text>
     <line x1="20" x2="168" y1="126" y2="126" stroke="#30363d" />
     <text class="label" x="20" y="154">ACTIVE SOURCES</text>
@@ -40,11 +40,11 @@
     <rect class="card" width="228" height="270" rx="8" />
     <circle cx="28" cy="28" r="8" fill="#ffa116" />
     <text class="title" x="44" y="34" fill="#ffa116">LeetCode</text>
-    <text class="value" x="20" y="78">607 <tspan class="muted">Solved</tspan></text>
-    <text class="muted" x="20" y="98">Accepted submissions: 1,794</text>
+    <text class="value" x="20" y="78">608 <tspan class="muted">Solved</tspan></text>
+    <text class="muted" x="20" y="98">Accepted submissions: 1,795</text>
 
     <text class="label" x="20" y="132">Easy</text>
-    <text class="muted" x="182" y="132">313</text>
+    <text class="muted" x="182" y="132">314</text>
     
     <rect x="20" y="142" width="188" height="8" rx="4" fill="#253041" />
     <rect x="20" y="142" width="97" height="8" rx="4" fill="#00b8a3" />
@@ -66,22 +66,22 @@
     <rect class="light-card" width="416" height="270" rx="12" />
     <text class="dark-title" x="28" y="34">Problems Overview</text>
     <circle cx="112" cy="146" r="62" fill="none" stroke="#eef2f7" stroke-width="24" />
-    <circle cx="112" cy="146" r="62" fill="none" stroke="#cceea2" stroke-width="24" stroke-dasharray="101.65 287.90" stroke-dashoffset="25.00" transform="rotate(-90 112 146)" stroke-linecap="butt" />
-<circle cx="112" cy="146" r="62" fill="none" stroke="#a7d477" stroke-width="24" stroke-dasharray="151.46 238.10" stroke-dashoffset="-76.65" transform="rotate(-90 112 146)" stroke-linecap="butt" />
-<circle cx="112" cy="146" r="62" fill="none" stroke="#ffb340" stroke-width="24" stroke-dasharray="126.90 262.66" stroke-dashoffset="-228.11" transform="rotate(-90 112 146)" stroke-linecap="butt" />
-<circle cx="112" cy="146" r="62" fill="none" stroke="#ff7043" stroke-width="24" stroke-dasharray="9.55 380.01" stroke-dashoffset="-355.01" transform="rotate(-90 112 146)" stroke-linecap="butt" />
-    <text class="donut-number" x="112" y="138" text-anchor="middle">571</text>
+    <circle cx="112" cy="146" r="62" fill="none" stroke="#cceea2" stroke-width="24" stroke-dasharray="102.27 287.29" stroke-dashoffset="25.00" transform="rotate(-90 112 146)" stroke-linecap="butt" />
+<circle cx="112" cy="146" r="62" fill="none" stroke="#a7d477" stroke-width="24" stroke-dasharray="150.04 239.52" stroke-dashoffset="-77.27" transform="rotate(-90 112 146)" stroke-linecap="butt" />
+<circle cx="112" cy="146" r="62" fill="none" stroke="#ffb340" stroke-width="24" stroke-dasharray="127.83 261.72" stroke-dashoffset="-227.30" transform="rotate(-90 112 146)" stroke-linecap="butt" />
+<circle cx="112" cy="146" r="62" fill="none" stroke="#ff7043" stroke-width="24" stroke-dasharray="9.42 380.14" stroke-dashoffset="-355.14" transform="rotate(-90 112 146)" stroke-linecap="butt" />
+    <text class="donut-number" x="112" y="138" text-anchor="middle">579</text>
     <text class="donut-caption" x="112" y="158" text-anchor="middle">Problems</text>
     <text class="donut-caption" x="112" y="172" text-anchor="middle">Solved</text>
 
     <rect x="210" y="77" width="10" height="10" rx="2" fill="#8ee8e0" />
     <text class="dark-label" x="228" y="86">School (0)</text>
 <rect x="210" y="105" width="10" height="10" rx="2" fill="#cceea2" />
-    <text class="dark-label" x="228" y="114">Basic (149)</text>
+    <text class="dark-label" x="228" y="114">Basic (152)</text>
 <rect x="210" y="133" width="10" height="10" rx="2" fill="#a7d477" />
-    <text class="dark-label" x="228" y="142">Easy (222)</text>
+    <text class="dark-label" x="228" y="142">Easy (223)</text>
 <rect x="210" y="161" width="10" height="10" rx="2" fill="#ffb340" />
-    <text class="dark-label" x="228" y="170">Medium (186)</text>
+    <text class="dark-label" x="228" y="170">Medium (190)</text>
 <rect x="210" y="189" width="10" height="10" rx="2" fill="#ff7043" />
     <text class="dark-label" x="228" y="198">Hard (14)</text>
   </g>
@@ -89,9 +89,9 @@
   <g transform="translate(472, 362)">
     <rect width="416" height="44" rx="10" fill="#121821" stroke="#30363d" />
     <text class="muted" x="18" y="27">GFG dynamic details</text>
-    <text class="label" x="158" y="27">Score 1,462</text>
-    <text class="label" x="248" y="27">Monthly 225</text>
-    <text class="label" x="344" y="27">Streak 0</text>
+    <text class="label" x="158" y="27">Score 1,487</text>
+    <text class="label" x="248" y="27">Monthly 250</text>
+    <text class="label" x="344" y="27">Streak 1</text>
   </g>
 
   
@@ -101,7 +101,7 @@
       <text x="26" y="30" text-anchor="middle" class="mini-icon" fill="#2f8d46">CS</text>
       <text x="52" y="30" class="dark-label">Coding Score</text>
       <rect x="200" y="10" width="36" height="28" rx="14" fill="#ffffff" stroke="#bfe8ce" />
-      <text x="218" y="29" text-anchor="middle" class="dark-value">1,462</text>
+      <text x="218" y="29" text-anchor="middle" class="dark-value">1,487</text>
     </g>
   
     <g transform="translate(292, 362)">
@@ -110,29 +110,29 @@
       <text x="26" y="30" text-anchor="middle" class="mini-icon" fill="#3b82f6">OK</text>
       <text x="52" y="30" class="dark-label">Problems Solved</text>
       <rect x="200" y="10" width="36" height="28" rx="14" fill="#ffffff" stroke="#bfe8ce" />
-      <text x="218" y="29" text-anchor="middle" class="dark-value">571</text>
+      <text x="218" y="29" text-anchor="middle" class="dark-value">579</text>
     </g>
 
   <g transform="translate(24, 430)">
     <rect width="864" height="86" rx="12" fill="#f8fafc" stroke="#d8dee4" />
     <text class="dark-title" x="18" y="28" fill="#0f172a">Codolio Dynamic Summary</text>
     <text class="dark-label" x="18" y="50" fill="#64748b">Aggregated from verified Codolio platform profiles</text>
-    <text class="dark-label" x="680" y="28" fill="#f97316">Submissions 3,695</text>
-    <text class="dark-label" x="680" y="50" fill="#166534">Max 45 | Current 33</text>
+    <text class="dark-label" x="680" y="28" fill="#f97316">Submissions 3,720</text>
+    <text class="dark-label" x="680" y="50" fill="#166534">Max 45 | Current 34</text>
   </g>
 
   
     <g transform="translate(300, 452)">
       <rect width="132" height="86" rx="10" fill="#ffffff" stroke="#d8dee4" />
       <text x="18" y="30" class="dark-label" fill="#4b5563">Total Questions</text>
-      <text x="18" y="66" class="big-dark" fill="#050816">1,492</text>
+      <text x="18" y="66" class="big-dark" fill="#050816">1,511</text>
       <text x="114" y="30" text-anchor="end" class="tiny-dark" fill="#f97316">Codolio</text>
     </g>
   
     <g transform="translate(448, 452)">
       <rect width="132" height="86" rx="10" fill="#ffffff" stroke="#d8dee4" />
       <text x="18" y="30" class="dark-label" fill="#4b5563">Active Days</text>
-      <text x="18" y="66" class="big-dark" fill="#050816">280</text>
+      <text x="18" y="66" class="big-dark" fill="#050816">281</text>
       <text x="114" y="30" text-anchor="end" class="tiny-dark" fill="#2f8d46">Live</text>
     </g>
   
