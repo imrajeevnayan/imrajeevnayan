@@ -114,7 +114,7 @@
 
 <div align="center">
   <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
-    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats.svg?v=202608020152" alt="Competitive Programming & DSA Overview" width="100%" />
+    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats.svg?v=202608021140" alt="Competitive Programming & DSA Overview" width="100%" />
   </a>
   
   <br/><br/>
