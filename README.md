@@ -200,12 +200,12 @@ Metadata: {
     <tr>
       <td align="center" valign="top" style="padding: 5px;">
         <a href="https://github.com/imrajeevnayan">
-          <img src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=dracula&hide_border=true" alt="Rajeev's Github Stats" />
+          <img src="https://github-stats-extended.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=dracula&hide_border=true" alt="Rajeev's Github Stats" />
         </a>
       </td>
       <td align="center" valign="top" style="padding: 5px;">
         <a href="https://github.com/imrajeevnayan">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
         </a>
       </td>
     </tr>
