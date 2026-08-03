@@ -19,7 +19,7 @@ Metadata: {
 
   <!-- Animated Typing Intro -->
   <p align="center">
-    <a href="https://rajeevnayan.vercel.app/">
+    <a href="https://www.rajeevnayan.in/">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&height=60&lines=Hello%2C+I'm+RAJEEV+NAYAN;Full+Stack+Java+Developer;Building+with+Spring+Boot+%26+React;Solving+DSA%2C+One+Problem+at+a+Time;Let's+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing SVG" />
     </a>
   </p>
