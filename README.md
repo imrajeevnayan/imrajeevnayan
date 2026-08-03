@@ -2,7 +2,7 @@
 <!--
 Metadata: {
   "name": "Rajeev Nayan",
-  "role": "Full Stack Developer",
+  "role": "Full Stack Java Developer",
   "skills": ["Java", "Spring Boot", "React", "Microservices", "JavaScript", "TypeScript", "SQL", "MongoDB", "Redis", "Docker", "AWS"],
   "profiles": ["GitHub", "LinkedIn", "LeetCode", "GeeksforGeeks", "Codolio", "HackerRank"],
   "location": "India"
@@ -10,29 +10,27 @@ Metadata: {
 -->
 
 <div align="center">
-  <!-- Header 3D Grid Asset -->
+  <!-- Header Grid Asset -->
   <a href="https://www.rajeevnayan.in/">
     <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/profile-grid.svg" alt="Rajeev's Profile Grid" width="100%" />
   </a>
 
-  <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
-
   <!-- Animated Typing Intro -->
   <p align="center">
     <a href="https://www.rajeevnayan.in/">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&height=60&lines=Hello%2C+I'm+RAJEEV+NAYAN;Full+Stack+Java+Developer;Building+with+Spring+Boot+%26+React;Solving+DSA%2C+One+Problem+at+a+Time;Let's+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=bd93f9&center=true&vCenter=true&width=650&height=60&lines=Hello%2C+I'm+RAJEEV+NAYAN;Full+Stack+Java+Developer;Building+with+Spring+Boot+%26+React;Solving+DSA%2C+One+Problem+at+a+Time;Let's+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing SVG" />
     </a>
   </p>
 
-  <!-- Visitor Views & Followers -->
+  <!-- Visitor Views & Followers (Unified style matching the Dracula theme) -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=imrajeevnayan&label=Profile+views&color=0e75b6&style=flat" alt="imrajeevnayan" />
+    <img src="https://komarev.com/ghpvc/?username=imrajeevnayan&label=Profile+views&color=bd93f9&style=for-the-badge" alt="Profile Views" />
     <a href="https://github.com/imrajeevnayan?tab=followers">
-      <img src="https://img.shields.io/github/followers/imrajeevnayan?label=Followers&style=social" alt="Followers" />
+      <img src="https://img.shields.io/github/followers/imrajeevnayan?label=Followers&style=for-the-badge&color=ff79c6" alt="Followers" />
     </a>
   </p>
 
-  <!-- Social Badges (Uniform Flat Style) -->
+  <!-- Social Badges Row (Consistent style and validated logos) -->
   <p align="center">
     <a href="https://linkedin.com/in/imrajeevnayan" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -43,23 +41,23 @@ Metadata: {
     <a href="https://instagram.com/imrajeevnayan" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
+    <a href="https://x.com/imrajeevnayan" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    </a>
     <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
     </a>
     <a href="https://www.hackerrank.com/profile/imrajeevnayan" target="_blank">
       <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
     </a>
-    <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
+    <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan" target="_blank">
       <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
     </a>
-    <a href="https://x.com/imrajeevnayan" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-    </a>
     <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
-      <img src="https://img.shields.io/badge/Codolio-20232A?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio"/>
+      <img src="https://img.shields.io/badge/Codolio-20232A?style=for-the-badge&logoColor=white" alt="Codolio"/>
     </a>
     <a href="https://www.rajeevnayan.in/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
     </a>
   </p>
 
@@ -71,12 +69,12 @@ Metadata: {
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Full Stack Web Development**
-- 🌱 I'm currently learning **Microservices, React 18, JWT Authentication**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Spring Boot, React, Java, JavaScript**
-- 📫 How to reach me: **imrajeevnayan@gmail.com**
-- 🏆 Solved **350+ problems** across various platforms (see details below)
+- 🔭 I'm currently working on **Full Stack Web Development (Java/Spring Boot & React)**
+- 🌱 I'm currently learning **Advanced Microservices, Distributed Systems & JWT Authentication**
+- 👯 I'm looking to collaborate on **Open Source Backend/Full Stack Projects**
+- 💬 Ask me about **Java, Spring Boot, React, and System Design**
+- 📫 How to reach me: [imrajeevnayan@gmail.com](mailto:imrajeevnayan@gmail.com)
+- 🏆 Solved **350+ DSA problems** across LeetCode, GfG, and HackerRank
 - ⚡ Fun fact: **I think coding is like magic – turning coffee into code! ☕**
 
 <br/>
@@ -86,15 +84,15 @@ Metadata: {
 <br/>
 
 * Designing clean, scalable backend architecture with Spring Boot
-* Writing efficient, maintainable Java code
-* Debugging tricky DSA problems until they click
-* Building responsive UIs with React
-* Anything related to REST APIs, Microservices, and System Design
+* Writing efficient, multi-threaded, and maintainable Java code
+* Debugging complex DSA problems and optimizing time complexity
+* Building responsive, modern frontend interfaces with React & TypeScript
+* Exploring RESTful API design, microservices orchestration, and database tuning
 </details>
 
 ---
 
-### 🚀 My Tech Stack
+### 🚀 Tech Stack
 
 <div align="center">
   <!-- Unified icon cloud utilizing skillicons.dev -->
@@ -116,72 +114,72 @@ Metadata: {
 
 </div>
 
-<br/>
+---
+
+### ☕ Java Developer Skills
 
 <div align="center">
-  <h3>☕ Java Developer Skills</h3>
-</div>
-
-<div align="center">
-
-**Core Java & OOP**
-<br/>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge)
-![Collections Framework](https://img.shields.io/badge/Collections%20Framework-4B8BBE?style=for-the-badge)
-![Multithreading](https://img.shields.io/badge/Multithreading%20%26%20Concurrency-4B8BBE?style=for-the-badge)
-![Exception Handling](https://img.shields.io/badge/Exception%20Handling-4B8BBE?style=for-the-badge)
-![Streams & Lambda](https://img.shields.io/badge/Streams%20%26%20Lambda-4B8BBE?style=for-the-badge)
-![Generics](https://img.shields.io/badge/Generics-4B8BBE?style=for-the-badge)
-![JVM Internals](https://img.shields.io/badge/JVM%20Internals-4B8BBE?style=for-the-badge)
-
-<br/>
-
-**Frameworks & Libraries**
-<br/>
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-<br/>
-
-**APIs, Messaging & Architecture**
-<br/>
-![REST APIs](https://img.shields.io/badge/REST%20APIs-4B8BBE?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-4B8BBE?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-4B8BBE?style=for-the-badge)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-<br/>
-
-**Build, Test & Tools**
-<br/>
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78C257?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
+  <table width="100%">
+    <tr>
+      <td width="25%"><b>Core Java & OOP</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/OOP%20Concepts-6272a4?style=for-the-badge" alt="OOP Concepts"/>
+        <img src="https://img.shields.io/badge/Collections-6272a4?style=for-the-badge" alt="Collections"/>
+        <img src="https://img.shields.io/badge/Multithreading%20%26%20Concurrency-6272a4?style=for-the-badge" alt="Multithreading & Concurrency"/>
+        <img src="https://img.shields.io/badge/Exception%20Handling-6272a4?style=for-the-badge" alt="Exception Handling"/>
+        <img src="https://img.shields.io/badge/Streams%20%26%20Lambdas-6272a4?style=for-the-badge" alt="Streams & Lambdas"/>
+        <img src="https://img.shields.io/badge/Generics-6272a4?style=for-the-badge" alt="Generics"/>
+        <img src="https://img.shields.io/badge/JVM%20Internals-6272a4?style=for-the-badge" alt="JVM Internals"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Frameworks</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC"/>
+        <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
+        <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA"/>
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>APIs & Architecture</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/REST%20APIs-ff79c6?style=for-the-badge" alt="REST APIs"/>
+        <img src="https://img.shields.io/badge/Microservices-ff79c6?style=for-the-badge" alt="Microservices"/>
+        <img src="https://img.shields.io/badge/Design%20Patterns-ff79c6?style=for-the-badge" alt="Design Patterns"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Messaging</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Build, Test & Tooling</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+        <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+        <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+        <img src="https://img.shields.io/badge/Mockito-78C257?style=for-the-badge" alt="Mockito"/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🏆 Coding Practice & DSA Stats
+### 🏆 Coding Practice Stats
 
 <div align="center">
   <!-- Codolio DSA Stats card -->
   <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
     <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats.svg?v=202608021140" alt="Competitive Programming & DSA Overview" width="90%" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-20232A?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio Profile"/>
   </a>
 
   <br/><br/>
@@ -208,16 +206,17 @@ Metadata: {
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
+  <!-- Side-by-Side Stats Cards -->
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" valign="top" style="padding: 5px;">
         <a href="https://github.com/imrajeevnayan">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imrajeevnayan&theme=dracula&cache_seconds=1800" alt="Rajeev's Github Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=dracula&hide_border=true" alt="Rajeev's Github Stats" />
         </a>
       </td>
       <td align="center" valign="top" style="padding: 5px;">
         <a href="https://github.com/imrajeevnayan">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imrajeevnayan&theme=dracula&cache_seconds=1800" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -225,8 +224,9 @@ Metadata: {
 
   <br/>
 
+  <!-- Streak Stats Card -->
   <a href="https://github.com/imrajeevnayan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajeevnayan&theme=dracula&hide_border=true&background=282a36&cache_seconds=1800" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajeevnayan&theme=dracula&hide_border=true&background=282a36" alt="Streak Stats" />
   </a>
 
   <br/><br/>
@@ -294,15 +294,6 @@ Metadata: {
 </details>
 
 ---
-
-<!-- Refreshing Dev Quote / Joke -->
-<div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   <!-- Wave Footer -->
