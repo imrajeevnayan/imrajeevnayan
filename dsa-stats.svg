@@ -22,7 +22,7 @@
 
   <rect class="bg" width="920" height="540" rx="14" />
   <text class="title" x="28" y="34">Competitive Programming &amp; DSA Overview</text>
-  <text class="muted" x="28" y="54">Auto-updated from LeetCode, GeeksforGeeks &amp; Codolio - 2026-08-03 16:55 UTC</text>
+  <text class="muted" x="28" y="54">Auto-updated from LeetCode, GeeksforGeeks &amp; Codolio - 2026-08-03 17:18 UTC</text>
 
   <g transform="translate(24, 76)">
     <rect class="card" width="188" height="270" rx="8" />
@@ -66,11 +66,11 @@
     <rect class="light-card" width="416" height="270" rx="12" />
     <text class="dark-title" x="28" y="34">Problems Overview</text>
     <circle cx="112" cy="146" r="62" fill="none" stroke="#eef2f7" stroke-width="24" />
-    <circle cx="112" cy="146" r="62" fill="none" stroke="#cceea2" stroke-width="24" stroke-dasharray="107.31 282.25" stroke-dashoffset="25.00" transform="rotate(-90 112 146)" stroke-linecap="butt" />
-<circle cx="112" cy="146" r="62" fill="none" stroke="#a7d477" stroke-width="24" stroke-dasharray="146.33 243.23" stroke-dashoffset="-82.31" transform="rotate(-90 112 146)" stroke-linecap="butt" />
-<circle cx="112" cy="146" r="62" fill="none" stroke="#ffb340" stroke-width="24" stroke-dasharray="126.82 262.74" stroke-dashoffset="-228.64" transform="rotate(-90 112 146)" stroke-linecap="butt" />
-<circle cx="112" cy="146" r="62" fill="none" stroke="#ff7043" stroke-width="24" stroke-dasharray="9.10 380.45" stroke-dashoffset="-355.45" transform="rotate(-90 112 146)" stroke-linecap="butt" />
-    <text class="donut-number" x="112" y="138" text-anchor="middle">599</text>
+    <circle cx="112" cy="146" r="62" fill="none" stroke="#cceea2" stroke-width="24" stroke-dasharray="106.60 282.96" stroke-dashoffset="25.00" transform="rotate(-90 112 146)" stroke-linecap="butt" />
+<circle cx="112" cy="146" r="62" fill="none" stroke="#a7d477" stroke-width="24" stroke-dasharray="145.36 244.20" stroke-dashoffset="-81.60" transform="rotate(-90 112 146)" stroke-linecap="butt" />
+<circle cx="112" cy="146" r="62" fill="none" stroke="#ffb340" stroke-width="24" stroke-dasharray="128.56 261.00" stroke-dashoffset="-226.95" transform="rotate(-90 112 146)" stroke-linecap="butt" />
+<circle cx="112" cy="146" r="62" fill="none" stroke="#ff7043" stroke-width="24" stroke-dasharray="9.04 380.51" stroke-dashoffset="-355.51" transform="rotate(-90 112 146)" stroke-linecap="butt" />
+    <text class="donut-number" x="112" y="138" text-anchor="middle">603</text>
     <text class="donut-caption" x="112" y="158" text-anchor="middle">Problems</text>
     <text class="donut-caption" x="112" y="172" text-anchor="middle">Solved</text>
 
@@ -81,7 +81,7 @@
 <rect x="210" y="133" width="10" height="10" rx="2" fill="#a7d477" />
     <text class="dark-label" x="228" y="142">Easy (225)</text>
 <rect x="210" y="161" width="10" height="10" rx="2" fill="#ffb340" />
-    <text class="dark-label" x="228" y="170">Medium (195)</text>
+    <text class="dark-label" x="228" y="170">Medium (199)</text>
 <rect x="210" y="189" width="10" height="10" rx="2" fill="#ff7043" />
     <text class="dark-label" x="228" y="198">Hard (14)</text>
   </g>
@@ -89,8 +89,8 @@
   <g transform="translate(472, 362)">
     <rect width="416" height="44" rx="10" fill="#121821" stroke="#30363d" />
     <text class="muted" x="18" y="27">GFG dynamic details</text>
-    <text class="label" x="158" y="27">Score 1,524</text>
-    <text class="label" x="248" y="27">Monthly 33</text>
+    <text class="label" x="158" y="27">Score 1,540</text>
+    <text class="label" x="248" y="27">Monthly 49</text>
     <text class="label" x="344" y="27">Streak 1</text>
   </g>
 
@@ -101,7 +101,7 @@
       <text x="26" y="30" text-anchor="middle" class="mini-icon" fill="#2f8d46">CS</text>
       <text x="52" y="30" class="dark-label">Coding Score</text>
       <rect x="200" y="10" width="36" height="28" rx="14" fill="#ffffff" stroke="#bfe8ce" />
-      <text x="218" y="29" text-anchor="middle" class="dark-value">1,524</text>
+      <text x="218" y="29" text-anchor="middle" class="dark-value">1,540</text>
     </g>
   
     <g transform="translate(292, 362)">
@@ -110,7 +110,7 @@
       <text x="26" y="30" text-anchor="middle" class="mini-icon" fill="#3b82f6">OK</text>
       <text x="52" y="30" class="dark-label">Problems Solved</text>
       <rect x="200" y="10" width="36" height="28" rx="14" fill="#ffffff" stroke="#bfe8ce" />
-      <text x="218" y="29" text-anchor="middle" class="dark-value">599</text>
+      <text x="218" y="29" text-anchor="middle" class="dark-value">603</text>
     </g>
 
   <g transform="translate(24, 430)">
