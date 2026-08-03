@@ -1,183 +1,227 @@
-<div align="center">
-  <!-- SEO Keywords for Discoverability -->
-  <!--
-  Metadata: {
-    "name": "Rajeev Nayan",
-    "role": "Full Stack Developer",
-    "skills": ["Java", "Spring Boot", "React", "Microservices", "JavaScript", "DSA"],
-    "profiles": ["GitHub", "LinkedIn", "LeetCode", "GeeksforGeeks", "HackerRank"],
-    "location": "India"
-  }
-  -->
-</div>
-
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
-
-<p align="center">
-  <a href="https://rajeevnayan.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+I'm+RAJEEV+NAYAN;Full+Stack+Developer;Building+with+Spring+Boot+%26+React;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/imrajeevnayan">
-    <img src="https://komarev.com/ghpvc/?username=imrajeevnayan&label=Profile%20views&color=0e75b6&style=flat" alt="imrajeevnayan" />
-  </a>
-  <a href="https://github.com/imrajeevnayan?tab=followers">
-    <img src="https://img.shields.io/github/followers/imrajeevnayan?label=Followers&style=social" alt="Followers" />
-  </a>
-</p>
+<!-- SEO Keywords for Discoverability & Metadata -->
+<!--
+Metadata: {
+  "name": "Rajeev Nayan",
+  "role": "Full Stack Developer",
+  "skills": ["Java", "Spring Boot", "React", "Microservices", "JavaScript", "SQL", "Docker", "AWS"],
+  "profiles": ["GitHub", "LinkedIn", "LeetCode", "GeeksforGeeks", "Codolio"],
+  "location": "India"
+}
+-->
 
 <div align="center">
-  <a href="https://github.com/imrajeevnayan">
-    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/profile-grid.svg" alt="Profile Grid" width="100%" />
+  <!-- Header 3D Grid Asset -->
+  <a href="https://www.rajeevnayan.in/">
+    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/profile-grid.svg" alt="Rajeev's Profile Grid" width="100%" />
   </a>
+
+  <!-- Animated Typing Intro -->
+  <p align="center">
+    <a href="https://www.rajeevnayan.in/">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+I'm+Rajeev+Nayan!+👋;Full+Stack+Software+Developer;Spring+Boot+%26+React+Specialist;Let's+build+something+together!+🚀" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <!-- Visitor Views & Followers -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=imrajeevnayan&label=Profile+Views&color=6DB33F&style=flat-square" alt="Profile Views" />
+    <a href="https://github.com/imrajeevnayan?tab=followers">
+      <img src="https://img.shields.io/github/followers/imrajeevnayan?label=Followers&color=1f2328&style=flat-square" alt="Followers" />
+    </a>
+  </p>
+
+  <!-- Social Badges (Uniform Flat-Square Style) -->
+  <p align="center">
+    <a href="https://linkedin.com/in/imrajeevnayan" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.rajeevnayan.in/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Portfolio"/>
+    </a>
+    <a href="mailto:imrajeevnayan@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    </a>
+    <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan" target="_blank">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+    </a>
+    <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
+      <img src="https://img.shields.io/badge/Codolio-20232A?style=flat-square&logo=codolio&logoColor=white" alt="Codolio"/>
+    </a>
+  </p>
 </div>
-
-<div align="center">
-
-  <a href="https://linkedin.com/in/imrajeevnayan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:imrajeevnayan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://instagram.com/imrajeevnayan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/imrajeevnayan" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://x.com/imrajeevnayan" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-20232A?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio"/>
-  </a>
-  <a href="https://www.rajeevnayan.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  Let's connect and build something amazing together! 🚀
-</div>
-
-<hr/>
-
-<div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote">
-  </a>
-</div>
-
-<br/>
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Full Stack Web Development**
-- 🌱 I’m currently learning **Microservices, React 18, JWT Authentication**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Spring Boot, React, Java, JavaScript**
-- 📫 How to reach me: **imrajeevnayan@gmail.com**
-- 🏆 Solved **350+ problems** across various platforms (see details below)
-- ⚡ Fun fact: **I think coding is like magic – turning coffee into code! ☕**
 
 ---
 
+### 👨‍💻 About Me
 
+I am a passionate **Full Stack Developer** specializing in building highly scalable, reliable, and premium web applications. I love solving algorithmic challenges and transforming complex ideas into clean, functional code.
+
+- 🔭 Currently working on: **Full Stack Web Architectures & Enterprise Systems**
+- 🚀 Passionate about: **Clean Code, System Design, and High-Performance APIs**
+- ⚡ Fun fact: **I think coding is like magic – turning coffee into interactive systems! ☕**
+
+<details>
+<summary><b>🔍 Ask Me About... (Click to expand)</b></summary>
+<br/>
+
+- **Backend Architecture:** Spring Boot, REST APIs, Microservices, Security & JWT
+- **Frontend Systems:** React, JavaScript, Responsive UI, DOM Manipulation
+- **Databases & Scaling:** MySQL, PostgreSQL, Query Optimization
+- **DevOps & Infrastructure:** Docker containers, AWS deployment, Version Control
+</details>
+
+<br/>
+
+#### 🛠️ Current Focus / Building
+- [x] Production-grade Spring Boot & React microservices
+- [/] Scaling server deployments with AWS and Docker containers
+- [ ] Optimizing SQL queries for faster request processing
+
+---
 
 ### 🚀 My Tech Stack
 
 <div align="center">
-
-| **Frontend** | **Backend** | **Database** | **DevOps & Tools** |
-|:---:|:---:|:---:|:---:|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |  |  | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |  |  | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-
+  <!-- Modern unified icon cloud utilizing skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,postgres,docker,aws,git,vscode" alt="My Tech Stack" />
 </div>
 
 ---
 
-### 🏆 Coding Practice Stats
+### 🏆 Coding Practice & DSA Stats
 
 <div align="center">
+  <!-- Codolio DSA Stats card -->
   <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
-    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats.svg?v=202608021140" alt="Competitive Programming & DSA Overview" width="100%" />
-  </a>
-  
-  <br/><br/>
-
-  <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-20232A?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio Profile"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
+    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats.svg" alt="Competitive Programming & DSA Overview" width="90%" />
   </a>
 
   <br/><br/>
 
-  <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/imrajeevnayan?theme=dark&font=Inter" alt="LeetCode Stats" />
-  </a>
-</div>
-
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/imrajeevnayan">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imrajeevnayan&theme=dracula&cache_seconds=1800" alt="Rajeev's Github Stats" />
-</a>
-<a href="https://github.com/imrajeevnayan">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imrajeevnayan&theme=dracula&cache_seconds=1800" alt="Top Languages" />
-</a>
-
-<br/>
-
-<a href="https://github.com/imrajeevnayan">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajeevnayan&theme=dracula&hide_border=true&background=282a36&cache_seconds=1800" alt="Streak Stats" />
-</a>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/output/github-contribution-grid-snake-dark.svg?v=snake">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/output/github-contribution-grid-snake.svg?v=snake">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/output/github-contribution-grid-snake.svg?v=snake">
-</picture>
-
+  <!-- Side-by-Side LeetCode and GeeksforGeeks cards -->
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top" style="padding: 10px;">
+        <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
+          <img src="https://leetcard.jacoblin.cool/imrajeevnayan?theme=dark&font=Inter" width="380px" alt="LeetCode Stats" />
+        </a>
+      </td>
+      <td align="center" valign="top" style="padding: 10px;">
+        <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan" target="_blank">
+          <img src="https://gfgstatscard.vercel.app/imrajeevnayan?theme=dark" width="380px" alt="GeeksforGeeks Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/imrajeevnayan">
+    <img src="https://github-profile-trophy.vercel.app/?username=imrajeevnayan&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top" style="padding: 5px;">
+        <a href="https://github.com/imrajeevnayan">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imrajeevnayan&theme=dracula&cache_seconds=1800" alt="Rajeev's Github Stats" />
+        </a>
+      </td>
+      <td align="center" valign="top" style="padding: 5px;">
+        <a href="https://github.com/imrajeevnayan">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imrajeevnayan&theme=dracula&cache_seconds=1800" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <a href="https://github.com/imrajeevnayan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajeevnayan&theme=dracula&hide_border=true&background=282a36&cache_seconds=1800" alt="Streak Stats" />
+  </a>
+
+  <br/><br/>
+
+  <!-- 3D Contribution Grid Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/output/github-contribution-grid-snake-dark.svg?v=snake">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/output/github-contribution-grid-snake.svg?v=snake">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/output/github-contribution-grid-snake.svg?v=snake" width="90%">
+  </picture>
+</div>
+
+---
+
+### 📂 Featured Projects
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">Project</th>
+      <th width="45%">Description</th>
+      <th width="25%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/imrajeevnayan/BookMyShow">🎬 BookMyShow</a></b></td>
+      <td>Premium movie ticket booking platform clone with secure JWT authentication and seat allocation logic.</td>
+      <td><code>Spring Boot</code> <code>React</code> <code>MySQL</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/imrajeevnayan/Food-Fiesta">🍕 Food-Fiesta</a></b></td>
+      <td>Online food ordering system with dynamic cart management, menu updates, and real-time order processing.</td>
+      <td><code>Spring Boot</code> <code>Java</code> <code>React</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/imrajeevnayan/Rento">🏠 Rento</a></b></td>
+      <td>Property rental platform featuring secure Google OAuth integration, search filters, and interactive listings.</td>
+      <td><code>React</code> <code>Google OAuth</code> <code>CSS</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/imrajeevnayan/readmify">📝 readmify</a></b></td>
+      <td>AI-powered CLI & Web tool to dynamically generate elegant, optimized developer README files.</td>
+      <td><code>Node.js</code> <code>OpenAI API</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<details>
+<summary><b>📁 View more secondary projects... (Click to expand)</b></summary>
+<br/>
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[BookMyShow](https://github.com/imrajeevnayan/BookMyShow)** | 🎬 A premium movie ticket booking platform clone with secure authentication. | `Spring Boot` `React` |
-| **[Food-Fiesta](https://github.com/imrajeevnayan/Food-Fiesta)** | 🍕 An online food ordering system with cart management and order tracking. | `Java` `Spring Boot` |
-| **[rajeevnayan](https://github.com/imrajeevnayan/rajeevnayan)** | 🎨 My personal portfolio showcasing specific skills and projects. | `TypeScript` `React` |
-| **[restaurant-website](https://github.com/imrajeevnayan/restaurant-website)** | 🍔 A fully responsive restaurant website with modern UI/UX. | `HTML` `CSS` `JS` |
-| **[Rento](https://github.com/imrajeevnayan/Rento)** | 🏠 Rental platform featuring Google OAuth integration for secure login. | `React` `Google OAuth` |
-| **[readmify](https://github.com/imrajeevnayan/readmify)** | 📝 An AI-powered tool to generate beautiful README files. | `AI` `Node.js` |
-| **[Chatgpt-Clone](https://github.com/imrajeevnayan/Chatgpt-Clone)** | 🤖 A clone of ChatGPT built to understand LLM integration. | `TypeScript` `OpenAI API` |
+| **[rajeevnayan](https://github.com/imrajeevnayan/rajeevnayan)** | My personal portfolio showcasing specific skills and project case studies. | `TypeScript` `React` |
+| **[restaurant-website](https://github.com/imrajeevnayan/restaurant-website)** | Fully responsive restaurant landing page with elegant scrolling effects. | `HTML` `CSS` `JS` |
+| **[Chatgpt-Clone](https://github.com/imrajeevnayan/Chatgpt-Clone)** | ChatGPT web interface clone connected to OpenAI APIs. | `TypeScript` `OpenAI API` |
+</details>
 
 ---
 
+<!-- Refreshing Dev Quote / Joke -->
 <div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Wave Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" width="100%"/>
 </div>
