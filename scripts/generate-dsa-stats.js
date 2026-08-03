@@ -5,7 +5,6 @@ const GFG_USER = "imrajeevnayan";
 const CODOLIO_USER = "imrajeevnayan";
 
 const urls = {
-  leetcode: `https://alfa-leetcode-api.onrender.com/${LEETCODE_USER}/solved`,
   gfgProfile: `https://www.geeksforgeeks.org/profile/${GFG_USER}?tab=activity`,
   gfgCard: `https://gfgstatscard.vercel.app/${GFG_USER}`,
   codolio: `https://api.codolio.com/profile?userKey=${CODOLIO_USER}`,
@@ -46,6 +45,56 @@ async function getText(url) {
 
 async function getJson(url) {
   return JSON.parse(await getText(url));
+}
+
+async function getLeetcode(username) {
+  const query = `
+    query userProblemsSolved($username: String!) {
+      allQuestionsCount {
+        difficulty
+        count
+      }
+      matchedUser(username: $username) {
+        submitStatsGlobal {
+          acSubmissionNum {
+            difficulty
+            count
+            submissions
+          }
+        }
+      }
+    }
+  `;
+
+  const res = await fetch("https://leetcode.com/graphql", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) GitHub README stats generator",
+    },
+    body: JSON.stringify({
+      query,
+      variables: { username },
+    }),
+  });
+
+  if (!res.ok) {
+    throw new Error(`LeetCode GraphQL returned ${res.status}`);
+  }
+
+  const json = await res.json();
+  const submitStats = json.data?.matchedUser?.submitStatsGlobal?.acSubmissionNum;
+  if (!submitStats) {
+    throw new Error("Invalid or incomplete data returned from LeetCode GraphQL API");
+  }
+
+  return {
+    solvedProblem: submitStats.find(x => x.difficulty === "All")?.count || 0,
+    easySolved: submitStats.find(x => x.difficulty === "Easy")?.count || 0,
+    mediumSolved: submitStats.find(x => x.difficulty === "Medium")?.count || 0,
+    hardSolved: submitStats.find(x => x.difficulty === "Hard")?.count || 0,
+    acSubmissionNum: submitStats
+  };
 }
 
 function pick(regex, text, fallback = 0) {
@@ -304,7 +353,7 @@ function generateSvg({ leetcode, gfg, codolio, generatedAt }) {
 
 async function main() {
   const [leetcode, gfgProfileHtml, gfgCardSvg, codolioProfile] = await Promise.all([
-    getJson(urls.leetcode),
+    getLeetcode(LEETCODE_USER),
     getText(urls.gfgProfile),
     getText(urls.gfgCard),
     getJson(urls.codolio),
