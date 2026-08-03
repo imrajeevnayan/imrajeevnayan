@@ -184,21 +184,10 @@ Metadata: {
 
   <br/><br/>
 
-  <!-- Side-by-Side LeetCode and GeeksforGeeks cards -->
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center" valign="top" style="padding: 10px;">
-        <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/imrajeevnayan?theme=dark&font=Inter" width="380px" alt="LeetCode Stats" />
-        </a>
-      </td>
-      <td align="center" valign="top" style="padding: 10px;">
-        <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
-          <img src="https://gfgstatscard.vercel.app/imrajeevnayan?theme=dark" width="380px" alt="GeeksforGeeks Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!-- LeetCode Stats Card -->
+  <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/imrajeevnayan?theme=dark&font=Inter" width="400px" alt="LeetCode Stats" />
+  </a>
 </div>
 
 ---
