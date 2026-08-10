@@ -179,7 +179,7 @@ Metadata: {
 <div align="center">
   <!-- Codolio DSA Stats card -->
   <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
-    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats.svg?v=202608090058" alt="Competitive Programming & DSA Overview" width="90%" />
+    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats.svg?v=202608100100" alt="Competitive Programming & DSA Overview" width="90%" />
   </a>
 
   <br/><br/>
