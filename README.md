@@ -2,8 +2,8 @@
 <!--
 Metadata: {
   "name": "Rajeev Nayan",
-  "role": "Full Stack Java Developer",
-  "skills": ["Java", "Spring Boot", "React", "Microservices", "JavaScript", "TypeScript", "SQL", "MongoDB", "Redis", "Docker", "AWS"],
+  "role": "Java Backend Engineer",
+  "specialization": ["Spring Boot", "Microservices", "System Design", "AI Integration"],
   "profiles": ["GitHub", "LinkedIn", "LeetCode", "GeeksforGeeks", "Codolio", "HackerRank"],
   "location": "India"
 }
@@ -15,11 +15,18 @@ Metadata: {
     <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/profile-grid.svg" alt="Rajeev's Profile Grid" width="100%" />
   </a>
 
-  <!-- Animated Typing Intro -->
+  <h1>Rajeev Nayan</h1>
+  <h3>Java Backend Engineer | Spring Boot | Microservices | AI Engineering</h3>
+
   <p align="center">
-    <a href="https://www.rajeevnayan.in/">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=bd93f9&center=true&vCenter=true&width=650&height=60&lines=Hello%2C+I'm+RAJEEV+NAYAN;Full+Stack+Java+Developer;Building+with+Spring+Boot+%26+React;Solving+DSA%2C+One+Problem+at+a+Time;Let's+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing SVG" />
-    </a>
+    <a href="#about">About</a> •
+    <a href="#pillars">What I Build</a> •
+    <a href="#tech-stack">Tech Stack</a> •
+    <a href="#ai-engineering">AI Engineering</a> •
+    <a href="#system-design">System Design</a> •
+    <a href="#coding-journey">Coding Journey</a> •
+    <a href="#featured-projects">Projects</a> •
+    <a href="#connect">Connect</a>
   </p>
 
   <!-- Visitor Views & Followers (Unified style matching the Dracula theme) -->
@@ -60,22 +67,20 @@ Metadata: {
       <img src="https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
     </a>
   </p>
-
-  <br/>
-  <div>Let's connect and build something amazing together! 🚀</div>
 </div>
 
 ---
 
+<a name="about"></a>
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Full Stack Web Development (Java/Spring Boot & React)**
-- 🌱 I'm currently learning **Advanced Microservices, Distributed Systems & JWT Authentication**
-- 👯 I'm looking to collaborate on **Open Source Backend/Full Stack Projects**
-- 💬 Ask me about **Java, Spring Boot, React, and System Design**
+I am a **Java Backend Engineer** with 2+ years of experience focusing on building scalable, reliable, and secure server-side systems. I design robust RESTful APIs, orchestrate Microservices, and optimize databases. Currently, I am also exploring **AI Integration** in backend architectures—building Retrieval-Augmented Generation (RAG) systems and leveraging LLMs using Spring AI.
+
+- 🔭 I'm currently working on: **Distributed backend systems and microservices using Spring Boot & Cloud.**
+- 🌱 I'm currently learning: **Advanced System Design patterns, caching topologies, and Spring AI agents.**
+- 👯 I'm looking to collaborate on: **Open-source backend architectures or projects involving AI orchestration in Java.**
+- 💬 Ask me about: **Java concurrency, Spring Security, database tuning, and API design.**
 - 📫 How to reach me: [imrajeevnayan@gmail.com](mailto:imrajeevnayan@gmail.com)
-- 🏆 Solved **350+ DSA problems** across LeetCode, GfG, and HackerRank
-- ⚡ Fun fact: **I think coding is like magic – turning coffee into code! ☕**
 
 <br/>
 
@@ -83,115 +88,126 @@ Metadata: {
 <summary><b>🧠 Click to see what I love talking about (Click to expand)</b></summary>
 <br/>
 
-* Designing clean, scalable backend architecture with Spring Boot
-* Writing efficient, multi-threaded, and maintainable Java code
-* Debugging complex DSA problems and optimizing time complexity
-* Building responsive, modern frontend interfaces with React & TypeScript
-* Exploring RESTful API design, microservices orchestration, and database tuning
+* Designing clean, maintainable backend services adhering to SOLID principles.
+* Tuning JPA/Hibernate transactions and diagnosing SQL query bottlenecks.
+* Exploring concurrent data structures and multithreading in JVM.
+* Discussing message queues (Kafka, RabbitMQ) for asynchronous task processing.
+* Structuring efficient embedding pipelines and vector searches for LLMs.
 </details>
 
 ---
 
-### 🚀 Tech Stack
+<a name="pillars"></a>
+### 🧭 What I Build
+
+I focus my development practices around three distinct pillars:
+
+```
++---------------------------------------------------------------------------------+
+|                                 CORE BACKEND                                    |
+|   Designing transactional REST APIs, securing endpoints via OAuth2/JWT, and     |
+|   optimizing queries using Spring Data JPA & Hibernate.                         |
++------------------------------------+--------------------------------------------+
+                                     |
+                                     v
++------------------------------------+--------------------------------------------+
+|                                SYSTEM DESIGN                                    |
+|   Structuring scalable microservices, organizing asynchronous pipelines via     |
+|   queues (Kafka/RabbitMQ), and reducing latencies with Redis caches.            |
++------------------------------------+--------------------------------------------+
+                                     |
+                                     v
++------------------------------------+--------------------------------------------+
+|                               AI ENGINEERING                                    |
+|   Building semantic search and RAG architectures in Java using Spring AI        |
+|   and integrating vector stores for intelligent data retrieval.                 |
++---------------------------------------------------------------------------------+
+```
+
+---
+
+<a name="tech-stack"></a>
+### 🛠️ Tech Stack
 
 <div align="center">
   <!-- Unified icon cloud utilizing skillicons.dev -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,mysql,postgres,mongodb,redis,docker,aws,git,vscode&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,redis,docker,aws,git,vscode,react,js,ts,html,css&theme=dark" alt="Tech Stack Icons" />
   </a>
 </div>
 
 <br/>
 
-<div align="center">
-
-| **Frontend** | **Backend** | **Database** | **DevOps & Tools** |
-|:---:|:---:|:---:|:---:|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-
-</div>
-
----
-
-### ☕ Java Developer Skills
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="25%"><b>Core Java & OOP</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/OOP%20Concepts-6272a4?style=for-the-badge" alt="OOP Concepts"/>
-        <img src="https://img.shields.io/badge/Collections-6272a4?style=for-the-badge" alt="Collections"/>
-        <img src="https://img.shields.io/badge/Multithreading%20%26%20Concurrency-6272a4?style=for-the-badge" alt="Multithreading & Concurrency"/>
-        <img src="https://img.shields.io/badge/Exception%20Handling-6272a4?style=for-the-badge" alt="Exception Handling"/>
-        <img src="https://img.shields.io/badge/Streams%20%26%20Lambdas-6272a4?style=for-the-badge" alt="Streams & Lambdas"/>
-        <img src="https://img.shields.io/badge/Generics-6272a4?style=for-the-badge" alt="Generics"/>
-        <img src="https://img.shields.io/badge/JVM%20Internals-6272a4?style=for-the-badge" alt="JVM Internals"/>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Frameworks</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-        <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC"/>
-        <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
-        <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA"/>
-        <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-      </td>
-    </tr>
-    <tr>
-      <td><b>APIs & Architecture</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/REST%20APIs-ff79c6?style=for-the-badge" alt="REST APIs"/>
-        <img src="https://img.shields.io/badge/Microservices-ff79c6?style=for-the-badge" alt="Microservices"/>
-        <img src="https://img.shields.io/badge/Design%20Patterns-ff79c6?style=for-the-badge" alt="Design Patterns"/>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Messaging</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Build, Test & Tooling</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-        <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
-        <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
-        <img src="https://img.shields.io/badge/Mockito-78C257?style=for-the-badge" alt="Mockito"/>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-      </td>
-    </tr>
-  </table>
-</div>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java (Core, Collections, Streams, Concurrency), JavaScript, TypeScript, SQL |
+| **Backend & Frameworks** | Spring Boot, Spring MVC, Spring Security (JWT, OAuth2), Spring Data JPA, Hibernate |
+| **Architecture** | Microservices, REST APIs, Distributed Systems, MVC Pattern |
+| **Databases & Caches** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Messaging** | Apache Kafka, RabbitMQ |
+| **Build & Tooling** | Maven, Gradle, JUnit, Mockito, Git, Postman, Jenkins |
+| **AI (Exploring)** | Spring AI, RAG concepts, LLM APIs, Vector Stores |
+| **Frontend** | React, HTML5, CSS3 |
+| **DevOps** | Docker, GitHub Actions |
 
 ---
 
-### 🏆 Coding Practice Stats
+<a name="ai-engineering"></a>
+### 🤖 AI Engineering & Integration
 
-<div align="center">
-  <!-- Codolio DSA Stats card -->
-  <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
-    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats.svg?v=202608100100" alt="Competitive Programming & DSA Overview" width="90%" />
-  </a>
+I believe that modern backend systems can be significantly enhanced by incorporating artificial intelligence. Rather than relying on simple wrappers, I build pipelines that connect data sources securely with LLMs:
 
-  <br/><br/>
+```
+[ Documents ] ──> [ Loader & Chunking ] ──> [ Embedding Model ] ──> [ Vector DB ]
+                                                                        │ (Similarity
+                                                                        ▼  Search)
+[ User Query ] ─────────────────────────> [ Prompt Template ] ──> [ LLM Context ] ──> [ Response ]
+```
 
-  <!-- LeetCode Stats Card -->
-  <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/imrajeevnayan?theme=dark&font=Inter" width="400px" alt="LeetCode Stats" />
-  </a>
-</div>
+* **Retrieval-Augmented Generation (RAG)**: Chunking files, generating vector embeddings, storing them in vector databases, and running semantic queries.
+* **Java + AI**: Leveraging **Spring AI** to cleanly integrate AI models into traditional Java backend frameworks, avoiding unnecessary Python microservices.
 
 ---
 
+<a name="system-design"></a>
+### 🏗️ System Design & Architecture
+
+My focus goes beyond writing controllers; I design with scalability, fault tolerance, and system efficiency in mind:
+
+* **Concurrency**: Understanding JVM memory structures, multithreading synchronization, and ExecutorServices to handle high load.
+* **Database Tuning**: Setting up proper indexes, analyzing slow queries, and managing connection pool limits.
+* **Asynchronous Integration**: Utilizing message brokers to decouple long-running processes, improving overall API response times.
+
+---
+
+<a name="coding-journey"></a>
+### 🏆 Coding Journey & Platforms
+
+I maintain a strong focus on algorithmic problem solving and data structures to ensure optimal execution performance.
+
+#### 🟡 LeetCode
+* **Profile**: [leetcode.com/u/imrajeevnayan](https://leetcode.com/u/imrajeevnayan/)
+* Dynamic breakdown of solved problems, categories, and coding activity:
+<br/>
+<a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/imrajeevnayan?theme=dark&font=Inter" width="400px" alt="LeetCode Stats" />
+</a>
+
+#### 🟢 GeeksforGeeks
+* **Profile**: [geeksforgeeks.org/profile/imrajeevnayan?tab=activity](https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity)
+* Consistently practicing platform-specific algorithms and concepts. Stats are aggregated dynamically in the unified dashboard below.
+
+#### 🔵 Codolio
+* **Profile**: [codolio.com/profile/imrajeevnayan](https://codolio.com/profile/imrajeevnayan)
+* Dynamic unified dashboard reflecting DSA progress and platform integrations:
+<br/>
+<a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
+  <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats.svg?v=202608100100" alt="Competitive Programming & DSA Overview" width="90%" />
+</a>
+
+---
+
+<a name="github-stats"></a>
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
@@ -237,50 +253,53 @@ Metadata: {
 
 ---
 
+<a name="featured-projects"></a>
 ### 📂 Featured Projects
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="30%">Project</th>
-      <th width="45%">Description</th>
-      <th width="25%">Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b><a href="https://github.com/imrajeevnayan/BookMyShow">🎬 BookMyShow</a></b></td>
-      <td>A premium movie ticket booking platform clone with secure authentication.</td>
-      <td><code>Spring Boot</code> <code>React</code></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/imrajeevnayan/Food-Fiesta">🍕 Food-Fiesta</a></b></td>
-      <td>An online food ordering system with cart management and order tracking.</td>
-      <td><code>Java</code> <code>Spring Boot</code></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/imrajeevnayan/Rento">🏠 Rento</a></b></td>
-      <td>Rental platform featuring Google OAuth integration for secure login.</td>
-      <td><code>React</code> <code>Google OAuth</code></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/imrajeevnayan/readmify">📝 readmify</a></b></td>
-      <td>An AI-powered tool to generate beautiful README files.</td>
-      <td><code>AI</code> <code>Node.js</code></td>
-    </tr>
-  </tbody>
-</table>
+#### 🎬 [BookMyShow](https://github.com/imrajeevnayan/BookMyShow)
+* **What it solves**: A complete movie ticket booking backend system handling seat layout configurations, multiple showtime schedules, and secure bookings.
+* **Architecture**: Core Controller -> Service Layer -> Repository architecture with localized caching to optimize showtime queries.
+* **Tech**: Java, Spring Boot, Spring Security (JWT), Spring Data JPA, MySQL.
+* **Engineering Concepts**: Transaction Management, Entity Relationships, Secure API endpoints.
 
-<details>
-<summary><b>📁 View more secondary projects... (Click to expand)</b></summary>
-<br/>
+#### 🍕 [Food-Fiesta](https://github.com/imrajeevnayan/Food-Fiesta)
+* **What it solves**: Online food ordering platform featuring menu categorization, shopping cart state management, and asynchronous order lifecycle tracking.
+* **Architecture**: Monolithic architecture structured cleanly into components to facilitate future microservices migration.
+* **Tech**: Java, Spring Boot, Hibernate, MySQL.
+* **Engineering Concepts**: MVC Pattern, Asynchronous Tasks, Form Validation.
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[rajeevnayan](https://github.com/imrajeevnayan/rajeevnayan)** | My personal portfolio showcasing specific skills and projects. | `TypeScript` `React` |
-| **[restaurant-website](https://github.com/imrajeevnayan/restaurant-website)** | A fully responsive restaurant website with modern UI/UX. | `HTML` `CSS` `JS` |
-| **[Chatgpt-Clone](https://github.com/imrajeevnayan/Chatgpt-Clone)** | A clone of ChatGPT built to understand LLM integration. | `TypeScript` `OpenAI API` |
-</details>
+#### 🏠 [Rento](https://github.com/imrajeevnayan/Rento)
+* **What it solves**: Property rental marketplace that lets landlords publish properties and tenants search/apply with secure authentication.
+* **Architecture**: React SPA communicating with a decoupled REST API backend.
+* **Tech**: React, JavaScript, JWT, Google OAuth.
+* **Engineering Concepts**: OAuth Integration, State Management, Responsive UI.
+
+#### 📝 [readmify](https://github.com/imrajeevnayan/readmify)
+* **What it solves**: An AI-powered utility configured to parse codebases and generate highly structured, detailed README documentation automatically.
+* **Architecture**: Node CLI tool connecting structural parse trees to LLM prompts.
+* **Tech**: Node.js, AI Integration, LLM APIs.
+* **Engineering Concepts**: Context Window management, Prompt engineering, AST parsing.
+
+---
+
+### 💡 Engineering Philosophy
+
+* **Readable > Clever**: Code is read much more often than it is written. Make it obvious.
+* **Simple > Complex**: Start simple, introduce complexity only when constraints force it.
+* **Observable > Silent**: Always log errors with descriptive contexts. A silent system is an undebuggable system.
+* **Secure > Convenient**: Implement security checks (authentication, authorization, sanitization) at the core layer.
+* **Scalable > Prematurely Optimized**: Benchmark first. Optimize only when latency measurements dictate.
+
+---
+
+<a name="connect"></a>
+### 🤝 Let's Connect
+
+I'm always open to discussing Spring Boot internals, system architecture, database performance, or AI integrations.
+
+* 📧 Email: [imrajeevnayan@gmail.com](mailto:imrajeevnayan@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/imrajeevnayan](https://linkedin.com/in/imrajeevnayan)
+* 🌐 Portfolio: [rajeevnayan.in](https://www.rajeevnayan.in/)
 
 ---
 
