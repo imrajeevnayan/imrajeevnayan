@@ -22,10 +22,11 @@ Metadata: {
     <a href="#about">About</a> •
     <a href="#pillars">What I Build</a> •
     <a href="#tech-stack">Tech Stack</a> •
+    <a href="#featured-projects">Featured Projects</a> •
     <a href="#ai-engineering">AI Engineering</a> •
     <a href="#system-design">System Design</a> •
     <a href="#coding-journey">Coding Journey</a> •
-    <a href="#featured-projects">Projects</a> •
+    <a href="#github-stats">GitHub Stats</a> •
     <a href="#connect">Connect</a>
   </p>
 
@@ -74,26 +75,11 @@ Metadata: {
 <a name="about"></a>
 ### 👨‍💻 About Me
 
-I am a **Java Backend Engineer** with 2+ years of experience focusing on building scalable, reliable, and secure server-side systems. I design robust RESTful APIs, orchestrate Microservices, and optimize databases. Currently, I am also exploring **AI Integration** in backend architectures—building Retrieval-Augmented Generation (RAG) systems and leveraging LLMs using Spring AI.
+I am a **Java Backend Engineer** focusing on building scalable, reliable, and secure server-side systems. I design robust RESTful APIs, orchestrate Microservices, and optimize databases. Currently, I am also exploring **AI Integration** in backend architectures—building Retrieval-Augmented Generation (RAG) systems and leveraging LLMs using Spring AI.
 
-- 🔭 I'm currently working on: **Distributed backend systems and microservices using Spring Boot & Cloud.**
-- 🌱 I'm currently learning: **Advanced System Design patterns, caching topologies, and Spring AI agents.**
-- 👯 I'm looking to collaborate on: **Open-source backend architectures or projects involving AI orchestration in Java.**
-- 💬 Ask me about: **Java concurrency, Spring Security, database tuning, and API design.**
-- 📫 How to reach me: [imrajeevnayan@gmail.com](mailto:imrajeevnayan@gmail.com)
-
-<br/>
-
-<details>
-<summary><b>🧠 Click to see what I love talking about (Click to expand)</b></summary>
-<br/>
-
-* Designing clean, maintainable backend services adhering to SOLID principles.
-* Tuning JPA/Hibernate transactions and diagnosing SQL query bottlenecks.
-* Exploring concurrent data structures and multithreading in JVM.
-* Discussing message queues (Kafka, RabbitMQ) for asynchronous task processing.
-* Structuring efficient embedding pipelines and vector searches for LLMs.
-</details>
+- 🔭 **Current Focus**: Architecting fault-tolerant microservices and asynchronous task pipelines.
+- 🌱 **Learning & Exploration**: Caching topologies (Redis clustering), advanced system security, and Spring AI agents.
+- 💬 **Ask me about**: Transaction boundaries, JPA query optimization, thread safety, and API design.
 
 ---
 
@@ -102,27 +88,14 @@ I am a **Java Backend Engineer** with 2+ years of experience focusing on buildin
 
 I focus my development practices around three distinct pillars:
 
-```
-+---------------------------------------------------------------------------------+
-|                                 CORE BACKEND                                    |
-|   Designing transactional REST APIs, securing endpoints via OAuth2/JWT, and     |
-|   optimizing queries using Spring Data JPA & Hibernate.                         |
-+------------------------------------+--------------------------------------------+
-                                     |
-                                     v
-+------------------------------------+--------------------------------------------+
-|                                SYSTEM DESIGN                                    |
-|   Structuring scalable microservices, organizing asynchronous pipelines via     |
-|   queues (Kafka/RabbitMQ), and reducing latencies with Redis caches.            |
-+------------------------------------+--------------------------------------------+
-                                     |
-                                     v
-+------------------------------------+--------------------------------------------+
-|                               AI ENGINEERING                                    |
-|   Building semantic search and RAG architectures in Java using Spring AI        |
-|   and integrating vector stores for intelligent data retrieval.                 |
-+---------------------------------------------------------------------------------+
-```
+#### ☕ Backend Engineering
+Building robust backend architectures with Java and Spring Boot. I specialize in designing transactional APIs, securing endpoints via Spring Security (JWT & OAuth2), and implementing data persistence layers using Spring Data JPA & Hibernate.
+
+#### 🏗️ System Design
+Constructing systems that scale beyond a single instance. I design RESTful systems, handle asynchronous processing via messaging layers (Kafka, RabbitMQ), implement distributed caching strategies with Redis, and manage connection pools.
+
+#### 🤖 AI Engineering
+Integrating LLMs and semantic indexing directly into backend systems. I build Retrieval-Augmented Generation (RAG) structures using **Spring AI**, handling vector database integrations, similarity searches, and custom prompt formatting natively in Java.
 
 ---
 
@@ -140,78 +113,115 @@ I focus my development practices around three distinct pillars:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java (Core, Collections, Streams, Concurrency), JavaScript, TypeScript, SQL |
-| **Backend & Frameworks** | Spring Boot, Spring MVC, Spring Security (JWT, OAuth2), Spring Data JPA, Hibernate |
-| **Architecture** | Microservices, REST APIs, Distributed Systems, MVC Pattern |
-| **Databases & Caches** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Languages** | Java (Core, Collections, Streams, Multithreading), SQL, JavaScript, TypeScript |
+| **Backend Frameworks** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate |
+| **Databases & Cache** | PostgreSQL, MySQL, MongoDB, Redis |
 | **Messaging** | Apache Kafka, RabbitMQ |
-| **Build & Tooling** | Maven, Gradle, JUnit, Mockito, Git, Postman, Jenkins |
-| **AI (Exploring)** | Spring AI, RAG concepts, LLM APIs, Vector Stores |
+| **Build & Tooling** | Maven, Gradle, JUnit, Mockito, Postman, Jenkins |
+| **AI (Exploring)** | Spring AI, Vector DBs, RAG Pipelines, OpenAI API |
 | **Frontend** | React, HTML5, CSS3 |
 | **DevOps** | Docker, GitHub Actions |
 
 ---
 
+<a name="featured-projects"></a>
+### 📂 Featured Projects
+
+### 🎬 [BookMyShow](https://github.com/imrajeevnayan/BookMyShow)
+A complete ticket booking system backend engineered to configure seat layouts, list showtimes, and handle high-volume ticket bookings.
+* **Tech**: Java • Spring Boot • Spring Security (JWT) • MySQL • JPA & Hibernate
+* **Engineering**: MVC Architecture • Entity Relationship Design (OneToMany/ManyToOne) • Transaction Boundaries (`@Transactional`) • Secure REST Endpoints
+* **Repository**: [View Project →](https://github.com/imrajeevnayan/BookMyShow)
+
+### 🍕 [Food-Fiesta](https://github.com/imrajeevnayan/Food-Fiesta)
+An online food ordering system backend processing menus, categories, persistent shopping carts, and order status lifecycles.
+* **Tech**: Java • Spring Boot • Hibernate • MySQL • Thymeleaf
+* **Engineering**: Form Validation • Persistent Cart State Management • Asynchronous Lifecycle Updates
+* **Repository**: [View Project →](https://github.com/imrajeevnayan/Food-Fiesta)
+
+### 🏠 [Rento](https://github.com/imrajeevnayan/Rento)
+Rental listing and application marketplace allowing secure logins for landlords and tenants.
+* **Tech**: React • JavaScript • JWT Authentication • Google OAuth 2.0 • RESTful APIs
+* **Engineering**: Front-to-Back decoupled API communications • Token-based stateless authentication sessions
+* **Repository**: [View Project →](https://github.com/imrajeevnayan/Rento)
+
+### 📝 [readmify](https://github.com/imrajeevnayan/readmify)
+An AI-powered command-line utility designed to read repository file trees and automatically generate clean markdown files.
+* **Tech**: Node.js • LLM APIs • Prompt Engineering
+* **Engineering**: Recursive directory parsing • Context window formatting for LLM queries
+* **Repository**: [View Project →](https://github.com/imrajeevnayan/readmify)
+
+---
+
 <a name="ai-engineering"></a>
-### 🤖 AI Engineering & Integration
+### 🤖 AI Engineering & Architecture
 
-I believe that modern backend systems can be significantly enhanced by incorporating artificial intelligence. Rather than relying on simple wrappers, I build pipelines that connect data sources securely with LLMs:
+I build semantic retrieval flows that connect enterprise databases and document sets safely to Language Models:
 
 ```
-[ Documents ] ──> [ Loader & Chunking ] ──> [ Embedding Model ] ──> [ Vector DB ]
-                                                                        │ (Similarity
-                                                                        ▼  Search)
-[ User Query ] ─────────────────────────> [ Prompt Template ] ──> [ LLM Context ] ──> [ Response ]
+[ Raw Documents ] ──> [ Chunking / Parsing ] ──> [ Embedding Model ] ──> [ Vector Store (Pgvector/Redis) ]
+                                                                                   │
+                                                                                   ▼ (Semantic Search)
+[ User Query ] ─────────────────────────> [ Context Formatter ] ────────> [ LLM Generation ] ──> [ Output ]
 ```
 
-* **Retrieval-Augmented Generation (RAG)**: Chunking files, generating vector embeddings, storing them in vector databases, and running semantic queries.
-* **Java + AI**: Leveraging **Spring AI** to cleanly integrate AI models into traditional Java backend frameworks, avoiding unnecessary Python microservices.
+* **Spring AI Integration**: Working with Java-native APIs to construct vector database stores, configure similarity search query parameters, and handle LLM tokens without a Python container.
+* **Semantic Retrieval**: Structuring metadata mappings inside Vector search indices to ensure accurate system context limits.
 
 ---
 
 <a name="system-design"></a>
-### 🏗️ System Design & Architecture
+### 🏗️ System Design Patterns
 
-My focus goes beyond writing controllers; I design with scalability, fault tolerance, and system efficiency in mind:
+I build applications with structural patterns in mind to keep them maintainable as their scale requirements expand:
 
-* **Concurrency**: Understanding JVM memory structures, multithreading synchronization, and ExecutorServices to handle high load.
-* **Database Tuning**: Setting up proper indexes, analyzing slow queries, and managing connection pool limits.
-* **Asynchronous Integration**: Utilizing message brokers to decouple long-running processes, improving overall API response times.
+* **Layered Architecture**: Decoupling the Presentation layer (REST Controllers), Business logic (Service interfaces), and Persistence layer (Spring Repositories).
+* **Asynchronous Offloading**: Offloading email confirmations, logging pipelines, and report generation from the HTTP request thread into messaging queues (RabbitMQ/Kafka).
+* **Distributed Caching**: Placing Read-through Redis caching strategies ahead of relational queries to optimize read-heavy endpoints.
 
 ---
 
 <a name="coding-journey"></a>
-### 🏆 Coding Journey & Platforms
+### 🏆 Coding Journey & Dashboards
 
-I maintain a strong focus on algorithmic problem solving and data structures to ensure optimal execution performance.
+I practice algorithmic problem solving daily on LeetCode and GeeksforGeeks.
 
-#### 🟡 LeetCode
-* **Profile**: [leetcode.com/u/imrajeevnayan](https://leetcode.com/u/imrajeevnayan/)
-* Dynamic breakdown of solved problems, categories, and coding activity:
+#### 🟡 LeetCode Stats Dashboard (🟡 AUTO-SYNC)
+* **Profile**: [View LeetCode Profile →](https://leetcode.com/u/imrajeevnayan/)
+* **Platform Stats**: Dynamically updated stats via API queries:
 <br/>
-<a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/imrajeevnayan?theme=dark&font=Inter" width="400px" alt="LeetCode Stats" />
-</a>
+<div align="center">
+  <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats/leetcode.svg" alt="LeetCode Dashboard" />
+  </a>
+</div>
 
-#### 🟢 GeeksforGeeks
-* **Profile**: [geeksforgeeks.org/profile/imrajeevnayan?tab=activity](https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity)
-* Consistently practicing platform-specific algorithms and concepts. Stats are aggregated dynamically in the unified dashboard below.
-
-#### 🔵 Codolio
-* **Profile**: [codolio.com/profile/imrajeevnayan](https://codolio.com/profile/imrajeevnayan)
-* Dynamic unified dashboard reflecting DSA progress and platform integrations:
+#### 🟢 GeeksforGeeks Stats Dashboard (🟡 AUTO-SYNC)
+* **Profile**: [View GeeksforGeeks Profile →](https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity)
+* **Platform Stats**: Dynamically parsed GfG profile scores:
 <br/>
-<a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
-  <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats.svg?v=202608100752" alt="Competitive Programming & DSA Overview" width="90%" />
-</a>
+<div align="center">
+  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
+    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats/gfg.svg" alt="GeeksforGeeks Dashboard" />
+  </a>
+</div>
+
+#### 🔵 Codolio Stats Dashboard (🟡 AUTO-SYNC)
+* **Profile**: [View Codolio Profile →](https://codolio.com/profile/imrajeevnayan)
+* **Platform Stats**: Comprehensive developer portfolio statistics:
+<br/>
+<div align="center">
+  <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
+    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats/codolio.svg" alt="Codolio Dashboard" />
+  </a>
+</div>
 
 ---
 
 <a name="github-stats"></a>
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Activity (🟡 AUTO-SYNC)
 
 <div align="center">
-  <!-- Side-by-Side Stats Cards -->
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" valign="top" style="padding: 5px;">
@@ -243,7 +253,7 @@ I maintain a strong focus on algorithmic problem solving and data structures to 
 
   <br/><br/>
 
-  <!-- 3D Contribution Grid Snake Animation -->
+  <!-- Snake Game Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/output/github-contribution-grid-snake-dark.svg?v=snake">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/output/github-contribution-grid-snake.svg?v=snake">
@@ -253,49 +263,18 @@ I maintain a strong focus on algorithmic problem solving and data structures to 
 
 ---
 
-<a name="featured-projects"></a>
-### 📂 Featured Projects
-
-#### 🎬 [BookMyShow](https://github.com/imrajeevnayan/BookMyShow)
-* **What it solves**: A complete movie ticket booking backend system handling seat layout configurations, multiple showtime schedules, and secure bookings.
-* **Architecture**: Core Controller -> Service Layer -> Repository architecture with localized caching to optimize showtime queries.
-* **Tech**: Java, Spring Boot, Spring Security (JWT), Spring Data JPA, MySQL.
-* **Engineering Concepts**: Transaction Management, Entity Relationships, Secure API endpoints.
-
-#### 🍕 [Food-Fiesta](https://github.com/imrajeevnayan/Food-Fiesta)
-* **What it solves**: Online food ordering platform featuring menu categorization, shopping cart state management, and asynchronous order lifecycle tracking.
-* **Architecture**: Monolithic architecture structured cleanly into components to facilitate future microservices migration.
-* **Tech**: Java, Spring Boot, Hibernate, MySQL.
-* **Engineering Concepts**: MVC Pattern, Asynchronous Tasks, Form Validation.
-
-#### 🏠 [Rento](https://github.com/imrajeevnayan/Rento)
-* **What it solves**: Property rental marketplace that lets landlords publish properties and tenants search/apply with secure authentication.
-* **Architecture**: React SPA communicating with a decoupled REST API backend.
-* **Tech**: React, JavaScript, JWT, Google OAuth.
-* **Engineering Concepts**: OAuth Integration, State Management, Responsive UI.
-
-#### 📝 [readmify](https://github.com/imrajeevnayan/readmify)
-* **What it solves**: An AI-powered utility configured to parse codebases and generate highly structured, detailed README documentation automatically.
-* **Architecture**: Node CLI tool connecting structural parse trees to LLM prompts.
-* **Tech**: Node.js, AI Integration, LLM APIs.
-* **Engineering Concepts**: Context Window management, Prompt engineering, AST parsing.
-
----
-
 ### 💡 Engineering Philosophy
 
-* **Readable > Clever**: Code is read much more often than it is written. Make it obvious.
-* **Simple > Complex**: Start simple, introduce complexity only when constraints force it.
-* **Observable > Silent**: Always log errors with descriptive contexts. A silent system is an undebuggable system.
-* **Secure > Convenient**: Implement security checks (authentication, authorization, sanitization) at the core layer.
-* **Scalable > Prematurely Optimized**: Benchmark first. Optimize only when latency measurements dictate.
+* **Readable > Clever**: Code is read much more often than it is written.
+* **Observable > Silent**: Always include telemetry, logs, and trace bounds for execution paths.
+* **Scalable > Prematurely Optimized**: Benchmark constraints before building premature topologies.
 
 ---
 
 <a name="connect"></a>
 ### 🤝 Let's Connect
 
-I'm always open to discussing Spring Boot internals, system architecture, database performance, or AI integrations.
+If you'd like to talk about Spring Boot setups, Java performance tuning, vector databases, or backend architectures:
 
 * 📧 Email: [imrajeevnayan@gmail.com](mailto:imrajeevnayan@gmail.com)
 * 💼 LinkedIn: [linkedin.com/in/imrajeevnayan](https://linkedin.com/in/imrajeevnayan)

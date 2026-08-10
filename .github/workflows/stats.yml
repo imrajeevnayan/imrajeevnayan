@@ -1,0 +1,45 @@
+name: Generate Separate DSA Dashboards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Runs every 6 hours
+  workflow_dispatch:
+
+concurrency:
+  group: dsa-dashboards-update
+  cancel-in-progress: true
+
+jobs:
+  update-dashboards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate SVG Dashboards
+        run: |
+          mkdir -p dsa-stats
+          mkdir -p data
+          node scripts/generate-stats.js
+
+      - name: Commit and Push Dashboards
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          git add dsa-stats/ data/
+          
+          if git diff --staged --quiet; then
+            echo "No updates detected in statistics. Skipping commit."
+          else
+            git commit -m "docs: auto-update LeetCode, GFG & Codolio dashboards [skip ci]"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
