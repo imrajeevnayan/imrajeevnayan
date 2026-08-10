@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "lastUpdated": "2026-08-10 08:03 UTC",
+  "data": {
+    "total": 638,
+    "easy": 326,
+    "medium": 274,
+    "hard": 38,
+    "submissions": 1861
+  }
+}

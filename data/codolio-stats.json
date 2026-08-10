@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "lastUpdated": "2026-08-10 08:03 UTC",
+  "data": {
+    "totalQuestions": 1610,
+    "submissions": 3902,
+    "maxStreak": 45,
+    "activeDays": 4,
+    "platforms": 5
+  }
+}
