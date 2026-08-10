@@ -202,7 +202,7 @@ I maintain a strong focus on algorithmic problem solving and data structures to 
 * Dynamic unified dashboard reflecting DSA progress and platform integrations:
 <br/>
 <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
-  <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats.svg?v=202608100100" alt="Competitive Programming & DSA Overview" width="90%" />
+  <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats.svg?v=202608100752" alt="Competitive Programming & DSA Overview" width="90%" />
 </a>
 
 ---
