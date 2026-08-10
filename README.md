@@ -241,14 +241,14 @@ I practice algorithmic problem solving daily on LeetCode and GeeksforGeeks.
 
   <!-- Streak Stats Card -->
   <a href="https://github.com/imrajeevnayan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajeevnayan&theme=dracula&hide_border=true&background=282a36" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=imrajeevnayan&theme=dracula&hide_border=true&background=282a36" alt="Streak Stats" />
   </a>
 
   <br/><br/>
 
   <!-- Trophies Widget -->
   <a href="https://github.com/imrajeevnayan">
-    <img src="https://github-profile-trophy.vercel.app/?username=imrajeevnayan&theme=dracula&no-frame=true&row=1&column=6" alt="Trophies" />
+    <img src="https://github-trophies.devomb.com/?username=imrajeevnayan&theme=dracula&no-frame=true&row=1&column=6" alt="Trophies" />
   </a>
 
   <br/><br/>
