@@ -2,19 +2,19 @@
     <rect width="450" height="240" rx="14" fill="#0d1117" stroke="#30363d" />
     <circle cx="40" cy="40" r="12" fill="#ffa116" />
     <text x="65" y="45" font-family="'Segoe UI', sans-serif" font-weight="bold" font-size="18" fill="#f0f6fc">LeetCode Dashboard</text>
-    <text x="25" y="90" font-family="'Segoe UI', sans-serif" font-weight="800" font-size="28" fill="#ffa116">662 <tspan font-size="14" fill="#8b949e">Solved</tspan></text>
+    <text x="25" y="90" font-family="'Segoe UI', sans-serif" font-weight="800" font-size="28" fill="#ffa116">667 <tspan font-size="14" fill="#8b949e">Solved</tspan></text>
     
-    <text x="25" y="130" font-family="'Segoe UI', sans-serif" font-size="12" fill="#f0f6fc">Easy: 334</text>
+    <text x="25" y="130" font-family="'Segoe UI', sans-serif" font-size="12" fill="#f0f6fc">Easy: 336</text>
     <rect x="120" y="120" width="280" height="8" rx="4" fill="#253041" />
-    <rect x="120" y="120" width="141.2688821752266" height="8" rx="4" fill="#00b8a3" />
+    <rect x="120" y="120" width="141.04947526236882" height="8" rx="4" fill="#00b8a3" />
 
-    <text x="25" y="160" font-family="'Segoe UI', sans-serif" font-size="12" fill="#f0f6fc">Medium: 288</text>
+    <text x="25" y="160" font-family="'Segoe UI', sans-serif" font-size="12" fill="#f0f6fc">Medium: 290</text>
     <rect x="120" y="150" width="280" height="8" rx="4" fill="#253041" />
-    <rect x="120" y="150" width="121.81268882175226" height="8" rx="4" fill="#ffc01e" />
+    <rect x="120" y="150" width="121.73913043478261" height="8" rx="4" fill="#ffc01e" />
 
-    <text x="25" y="190" font-family="'Segoe UI', sans-serif" font-size="12" fill="#f0f6fc">Hard: 40</text>
+    <text x="25" y="190" font-family="'Segoe UI', sans-serif" font-size="12" fill="#f0f6fc">Hard: 41</text>
     <rect x="120" y="180" width="280" height="8" rx="4" fill="#253041" />
-    <rect x="120" y="180" width="16.91842900302115" height="8" rx="4" fill="#ff375f" />
+    <rect x="120" y="180" width="17.211394302848575" height="8" rx="4" fill="#ff375f" />
 
-    <text x="25" y="225" font-family="'Segoe UI', sans-serif" font-size="10" fill="#8b949e">Last Sync: 2026-08-14 12:58 UTC</text>
+    <text x="25" y="225" font-family="'Segoe UI', sans-serif" font-size="10" fill="#8b949e">Last Sync: 2026-08-14 18:48 UTC</text>
   </svg>
