@@ -1,15 +1,15 @@
 {
   "status": "success",
-  "lastUpdated": "2026-08-26 01:05 UTC",
+  "lastUpdated": "2026-08-26 06:41 UTC",
   "data": {
-    "score": 1831,
-    "solved": 706,
+    "score": 1858,
+    "solved": 716,
     "rank": 0,
     "streak": 1,
     "school": 0,
-    "basic": 188,
-    "easy": 263,
-    "medium": 234,
+    "basic": 191,
+    "easy": 265,
+    "medium": 239,
     "hard": 21
   }
 }
