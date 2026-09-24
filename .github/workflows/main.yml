@@ -5,7 +5,6 @@ on:
     - cron: "0 18 * * *" # Once a day at 18:00 UTC
   workflow_dispatch:
 
-# Prevent parallel runs from conflicting
 concurrency:
   group: update-profile-assets
   cancel-in-progress: true
@@ -21,12 +20,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
       - name: Generate Snake Game
         uses: Platane/snk/svg-only@v3
         with:
@@ -36,14 +29,6 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Prepare Assets for Deployment
-        run: |
-          mkdir -p dist
-          # If 3d-contrib was generated outside dist, move it. 
-          if [ -d "profile-3d-contrib" ]; then
-            mv profile-3d-contrib dist/
-          fi
 
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v5

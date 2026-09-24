@@ -1,14 +1,3 @@
-<!-- SEO Keywords for Discoverability & Metadata -->
-<!--
-Metadata: {
-  "name": "Rajeev Nayan",
-  "role": "Java Backend Engineer",
-  "specialization": ["Spring Boot", "Microservices", "System Design", "AI Integration"],
-  "profiles": ["GitHub", "LinkedIn", "LeetCode", "GeeksforGeeks", "Codolio", "HackerRank"],
-  "location": "India"
-}
--->
-
 <div align="center">
   <!-- Header Grid Asset -->
   <a href="https://www.rajeevnayan.in/">
@@ -20,7 +9,6 @@ Metadata: {
 
   <p align="center">
     <a href="#about">About</a> •
-    <a href="#pillars">What I Build</a> •
     <a href="#tech-stack">Tech Stack</a> •
     <a href="#featured-projects">Featured Projects</a> •
     <a href="#ai-engineering">AI Engineering</a> •
@@ -30,7 +18,7 @@ Metadata: {
     <a href="#connect">Connect</a>
   </p>
 
-  <!-- Visitor Views & Followers (Unified style matching the Dracula theme) -->
+  <!-- Visitor Views & Followers -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=imrajeevnayan&label=Profile+views&color=bd93f9&style=for-the-badge" alt="Profile Views" />
     <a href="https://github.com/imrajeevnayan?tab=followers">
@@ -38,7 +26,7 @@ Metadata: {
     </a>
   </p>
 
-  <!-- Social Badges Row (Consistent style and validated logos) -->
+  <!-- Social Badges Row -->
   <p align="center">
     <a href="https://linkedin.com/in/imrajeevnayan" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -75,27 +63,11 @@ Metadata: {
 <a name="about"></a>
 ### 👨‍💻 About Me
 
-I am a **Java Backend Engineer** focusing on building scalable, reliable, and secure server-side systems. I design robust RESTful APIs, orchestrate Microservices, and optimize databases. Currently, I am also exploring **AI Integration** in backend architectures—building Retrieval-Augmented Generation (RAG) systems and leveraging LLMs using Spring AI.
+I am a **Java Backend Engineer** focused on building scalable, reliable, and secure server-side systems. I design robust RESTful APIs, orchestrate Microservices, and optimize relational and distributed databases. Additionally, I build **AI-integrated backends**—leveraging Retrieval-Augmented Generation (RAG) and LLM agents with Spring AI.
 
-- 🔭 **Current Focus**: Architecting fault-tolerant microservices and asynchronous task pipelines.
-- 🌱 **Learning & Exploration**: Caching topologies (Redis clustering), advanced system security, and Spring AI agents.
-- 💬 **Ask me about**: Transaction boundaries, JPA query optimization, thread safety, and API design.
-
----
-
-<a name="pillars"></a>
-### 🧭 What I Build
-
-I focus my development practices around three distinct pillars:
-
-#### ☕ Backend Engineering
-Building robust backend architectures with Java and Spring Boot. I specialize in designing transactional APIs, securing endpoints via Spring Security (JWT & OAuth2), and implementing data persistence layers using Spring Data JPA & Hibernate.
-
-#### 🏗️ System Design
-Constructing systems that scale beyond a single instance. I design RESTful systems, handle asynchronous processing via messaging layers (Kafka, RabbitMQ), implement distributed caching strategies with Redis, and manage connection pools.
-
-#### 🤖 AI Engineering
-Integrating LLMs and semantic indexing directly into backend systems. I build Retrieval-Augmented Generation (RAG) structures using **Spring AI**, handling vector database integrations, similarity searches, and custom prompt formatting natively in Java.
+- 🔭 **Focus**: Architecting fault-tolerant microservices, transaction boundaries, and asynchronous event pipelines.
+- 🌱 **Exploring**: Distributed caching topologies (Redis clustering), advanced system security, and Spring AI agents.
+- 💬 **Ask me about**: Java concurrency, JPA query optimization, thread safety, and API design.
 
 ---
 
@@ -103,7 +75,6 @@ Integrating LLMs and semantic indexing directly into backend systems. I build Re
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <!-- Unified icon cloud utilizing skillicons.dev -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,redis,docker,aws,git,vscode,react,js,ts,html,css&theme=dark" alt="Tech Stack Icons" />
   </a>
@@ -113,14 +84,14 @@ Integrating LLMs and semantic indexing directly into backend systems. I build Re
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java (Core, Collections, Streams, Multithreading), SQL, JavaScript, TypeScript |
+| **Languages** | Java (Core, Collections, Streams, Concurrency), SQL, JavaScript, TypeScript |
 | **Backend Frameworks** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate |
 | **Databases & Cache** | PostgreSQL, MySQL, MongoDB, Redis |
 | **Messaging** | Apache Kafka, RabbitMQ |
 | **Build & Tooling** | Maven, Gradle, JUnit, Mockito, Postman, Jenkins |
-| **AI (Exploring)** | Spring AI, Vector DBs, RAG Pipelines, OpenAI API |
+| **AI Engineering** | Spring AI, Vector DBs, RAG Pipelines, OpenAI API |
 | **Frontend** | React, HTML5, CSS3 |
-| **DevOps** | Docker, GitHub Actions |
+| **DevOps & Cloud** | Docker, GitHub Actions, AWS |
 
 ---
 
@@ -128,27 +99,27 @@ Integrating LLMs and semantic indexing directly into backend systems. I build Re
 ### 📂 Featured Projects
 
 ### 🎬 [BookMyShow](https://github.com/imrajeevnayan/BookMyShow)
-A complete ticket booking system backend engineered to configure seat layouts, list showtimes, and handle high-volume ticket bookings.
+Ticket booking platform backend engineered to configure seat layouts, list showtimes, and handle high-volume ticket bookings.
 * **Tech**: Java • Spring Boot • Spring Security (JWT) • MySQL • JPA & Hibernate
-* **Engineering**: MVC Architecture • Entity Relationship Design (OneToMany/ManyToOne) • Transaction Boundaries (`@Transactional`) • Secure REST Endpoints
+* **Engineering**: Layered Architecture • Relational Entity Mapping • Transaction Boundaries (`@Transactional`) • Secure REST Endpoints
 * **Repository**: [View Project →](https://github.com/imrajeevnayan/BookMyShow)
 
 ### 🍕 [Food-Fiesta](https://github.com/imrajeevnayan/Food-Fiesta)
-An online food ordering system backend processing menus, categories, persistent shopping carts, and order status lifecycles.
+Online food ordering backend processing menus, categories, persistent shopping carts, and order lifecycles.
 * **Tech**: Java • Spring Boot • Hibernate • MySQL • Thymeleaf
-* **Engineering**: Form Validation • Persistent Cart State Management • Asynchronous Lifecycle Updates
+* **Engineering**: Server-side Form Validation • Persistent Cart State Management • Asynchronous Lifecycle Updates
 * **Repository**: [View Project →](https://github.com/imrajeevnayan/Food-Fiesta)
 
 ### 🏠 [Rento](https://github.com/imrajeevnayan/Rento)
-Rental listing and application marketplace allowing secure logins for landlords and tenants.
+Rental listing and application marketplace allowing secure authentication for landlords and tenants.
 * **Tech**: React • JavaScript • JWT Authentication • Google OAuth 2.0 • RESTful APIs
-* **Engineering**: Front-to-Back decoupled API communications • Token-based stateless authentication sessions
+* **Engineering**: Decoupled Client-Server API Communication • Stateless Token Authentication
 * **Repository**: [View Project →](https://github.com/imrajeevnayan/Rento)
 
 ### 📝 [readmify](https://github.com/imrajeevnayan/readmify)
-An AI-powered command-line utility designed to read repository file trees and automatically generate clean markdown files.
+AI-powered CLI utility designed to parse repository structures and generate clean markdown documentation.
 * **Tech**: Node.js • LLM APIs • Prompt Engineering
-* **Engineering**: Recursive directory parsing • Context window formatting for LLM queries
+* **Engineering**: Recursive Directory Traversal • Context Window Structuring for LLM Analysis
 * **Repository**: [View Project →](https://github.com/imrajeevnayan/readmify)
 
 ---
@@ -173,10 +144,10 @@ I build semantic retrieval flows that connect enterprise databases and document 
 <a name="system-design"></a>
 ### 🏗️ System Design Patterns
 
-I build applications with structural patterns in mind to keep them maintainable as their scale requirements expand:
+I build applications with structural patterns in mind to keep them maintainable as scale requirements expand:
 
 * **Layered Architecture**: Decoupling the Presentation layer (REST Controllers), Business logic (Service interfaces), and Persistence layer (Spring Repositories).
-* **Asynchronous Offloading**: Offloading email confirmations, logging pipelines, and report generation from the HTTP request thread into messaging queues (RabbitMQ/Kafka).
+* **Asynchronous Offloading**: Offloading notification triggers, logging pipelines, and report generation from the HTTP request thread into messaging queues (RabbitMQ/Kafka).
 * **Distributed Caching**: Placing Read-through Redis caching strategies ahead of relational queries to optimize read-heavy endpoints.
 
 ---
@@ -184,32 +155,23 @@ I build applications with structural patterns in mind to keep them maintainable 
 <a name="coding-journey"></a>
 ### 🏆 Coding Journey & Dashboards
 
-I practice algorithmic problem solving daily on LeetCode and GeeksforGeeks.
+I practice algorithmic problem solving daily across LeetCode, GeeksforGeeks, and Codolio.
 
-#### 🟡 LeetCode Stats Dashboard (🟡 AUTO-SYNC)
-* **Profile**: [View LeetCode Profile →](https://leetcode.com/u/imrajeevnayan/)
-* **Platform Stats**: Dynamically updated stats via API queries:
-<br/>
+#### 🟡 LeetCode
 <div align="center">
   <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
     <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats/leetcode.svg" alt="LeetCode Dashboard" />
   </a>
 </div>
 
-#### 🟢 GeeksforGeeks Stats Dashboard (🟡 AUTO-SYNC)
-* **Profile**: [View GeeksforGeeks Profile →](https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity)
-* **Platform Stats**: Dynamically parsed GfG profile scores:
-<br/>
+#### 🟢 GeeksforGeeks
 <div align="center">
   <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
     <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats/gfg.svg" alt="GeeksforGeeks Dashboard" />
   </a>
 </div>
 
-#### 🔵 Codolio Stats Dashboard (🟡 AUTO-SYNC)
-* **Profile**: [View Codolio Profile →](https://codolio.com/profile/imrajeevnayan)
-* **Platform Stats**: Comprehensive developer portfolio statistics:
-<br/>
+#### 🔵 Codolio
 <div align="center">
   <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
     <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats/codolio.svg" alt="Codolio Dashboard" />
@@ -219,7 +181,7 @@ I practice algorithmic problem solving daily on LeetCode and GeeksforGeeks.
 ---
 
 <a name="github-stats"></a>
-### 📊 GitHub Stats & Activity (🟡 AUTO-SYNC)
+### 📊 GitHub Stats & Activity
 
 <div align="center">
   <table align="center" border="0" cellpadding="0" cellspacing="0">
@@ -263,26 +225,11 @@ I practice algorithmic problem solving daily on LeetCode and GeeksforGeeks.
 
 ---
 
-### 💡 Engineering Philosophy
-
-* **Readable > Clever**: Code is read much more often than it is written.
-* **Observable > Silent**: Always include telemetry, logs, and trace bounds for execution paths.
-* **Scalable > Prematurely Optimized**: Benchmark constraints before building premature topologies.
-
----
-
 <a name="connect"></a>
 ### 🤝 Let's Connect
 
-If you'd like to talk about Spring Boot setups, Java performance tuning, vector databases, or backend architectures:
+If you'd like to discuss Spring Boot, Java performance tuning, vector databases, or backend architectures:
 
 * 📧 Email: [imrajeevnayan@gmail.com](mailto:imrajeevnayan@gmail.com)
 * 💼 LinkedIn: [linkedin.com/in/imrajeevnayan](https://linkedin.com/in/imrajeevnayan)
 * 🌐 Portfolio: [rajeevnayan.in](https://www.rajeevnayan.in/)
-
----
-
-<div align="center">
-  <!-- Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" width="100%"/>
-</div>
