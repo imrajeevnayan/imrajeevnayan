@@ -1,15 +1,15 @@
 {
   "status": "success",
-  "lastUpdated": "2026-10-01 12:22 UTC",
+  "lastUpdated": "2026-10-01 21:07 UTC",
   "data": {
-    "score": 2050,
-    "solved": 785,
+    "score": 2074,
+    "solved": 791,
     "rank": 0,
     "streak": 0,
     "school": 0,
     "basic": 204,
     "easy": 290,
-    "medium": 268,
+    "medium": 274,
     "hard": 23
   }
 }
